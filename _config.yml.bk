@@ -1,0 +1,7 @@
+title: Àngel Ollé Blázquez
+description: Specialist Solution Architect @ Red Hat
+title-override: Àngel Ollé Blázquez | Specialist Solution Architect
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+show_downloads: false
+plugins:
+- jekyll-remote-theme
