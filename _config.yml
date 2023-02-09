@@ -16,7 +16,7 @@
 title: Olle's Website
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Specialist Solution Architect @ Red Hat
+  Specialist Solution Architect
 github_username: aolle
 minimal_mistakes_skin: default
 search: true
@@ -57,20 +57,17 @@ plugins:
 author:
   name   : "Àngel Ollé Blázquez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Specialist Solution Architect @ Red Hat"
+  bio    : "Specialist Solution Architect"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/aolle"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/aolle"
 
 defaults:
   # _posts
