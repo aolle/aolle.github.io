@@ -59,12 +59,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Specialist Solution Architect"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aolle"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/angelolle/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aolle"
 
 footer:
   links:
@@ -91,6 +91,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: "author"
+    values:
+      author_profile:
+        links:
+          target: _blank
 
 category_archive:
   type: liquid
