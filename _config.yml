@@ -66,12 +66,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aolle"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aolle"
-
 defaults:
   # _posts
   - scope:
