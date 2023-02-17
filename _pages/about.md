@@ -104,21 +104,21 @@ In his free time, he focuses on hardware and software security, as well as contr
 * Building Resilient Microservices with Istio and Red Hat OpenShift Service Mesh - DO328
 * Red Hat DevOps Pipelines and Processes - DO400
 * Cloud-native Integration with Red Hat Fuse - AD221
-* Automation with Ansible IAutomation with Ansible I - DO407-2.3
-* Automation with Ansible II: Ansible TowerAutomation with Ansible II: Ansible Tower - DO409-3.1
-* Containerizing Software ApplicationsContainerizing Software Applications - DO276-7.2
-* Red Hat Application Development I: Programming in Java EE - JB183-7.0
-* Red Hat Application Development II: Implementing Microservice Architectures - JB283-1.0
-* Red Hat Certified Engineer Certification Lab - RH299-7
-* Red Hat Enterprise Linux Diagnostics and Troubleshooting - RH342-7.2
-* Red Hat JBoss Application Administration I & II - JB248-6.3-7 & JB348-6.3-7
-* Red Hat JBoss Data Grid Development - JB453-6
-* Red Hat JBoss Enterprise Application Development I & II - JB225-6 & JB325-6
-* Red Hat OpenShift Development I - DO288-3.6
-* Red Hat OpenShift Enterprise Administration - DO280-3.9-4.2 & DO380-3.6
+* Automation with Ansible IAutomation with Ansible I - DO407
+* Automation with Ansible II: Ansible Tower - DO409
+* Containerizing Software Applications - DO276
+* Red Hat Application Development I: Programming in Java EE - JB183
+* Red Hat Application Development II: Implementing Microservice Architectures - JB283
+* Red Hat Certified Engineer Certification Lab - RH299
+* Red Hat Enterprise Linux Diagnostics and Troubleshooting - RH342
+* Red Hat JBoss Application Administration I & II - JB248 & JB348
+* Red Hat JBoss Data Grid Development - JB453
+* Red Hat JBoss Enterprise Application Development I & II - JB225 & JB325
+* Red Hat OpenShift Development I - DO288
+* Red Hat OpenShift Enterprise Administration - DO280-3.9 & DO380
 * Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster - DO280
-* Red Hat OpenShift Enterprise Development - DO290-3.05
-* Red Hat Security: Linux in Physical, Virtual, and Cloud - RH415-7.5
+* Red Hat OpenShift Enterprise Development - DO290
+* Red Hat Security: Linux in Physical, Virtual, and Cloud - RH415
 
 <!--
 TODO
