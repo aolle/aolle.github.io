@@ -7,14 +7,12 @@ Angel is a Specialist Solution Architect with 10+ years of experience in IT, and
 
 He obtained a Bachelor's degree in Computer Engineering from Universitat Rovira i Virgili ([Escola Tècnica Superior d'Enginyeria](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf){:target="_blank" rel="noopener noreferrer"}) , where he also completed the teaching certificate. He obtained two Master's degrees in Computer Engineering from [Universitat Oberta de Catalunya](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html){:target="_blank" rel="noopener noreferrer"}, where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf){:target="_blank" rel="noopener noreferrer"}, providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627){:target="_blank" rel="noopener noreferrer"} at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees){:target="_blank" rel="noopener noreferrer"}.
 
-Additionally, he has authored some of the course materials for the Master's degree in Data Science, and has also served as a university instructor/consultant for the programming courses in computer and telecommunications engineering.
+Additionally, he has authored some of the course materials for the Master's degree in Data Science, and has also served as a university instructor/consultant for programming courses in the BSc in computer and telecommunications engineering.
 
 As a Specialist Solution Architect, he is currently focused on open source technologies for the enterprise, and he also participates in events as a speaker.
 In the past, during his professional career, he has worked as a software engineer, consultant, and support engineer; with a strong customer-oriented focus.
 
 In his free time, he focuses on hardware and software security, as well as contributing to open source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/){:target="_blank" rel="noopener noreferrer"}.
-
-Opinions are my own.
 
 # Workshops
 
@@ -23,8 +21,8 @@ Opinions are my own.
 
 # Events
 
-* [Red Hat|intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001){:target="_blank" rel="noopener noreferrer"}
-* [Red Hat|intel TechTalks: Una plataforma de posibilidades ilimitadas (2022) - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001){:target="_blank" rel="noopener noreferrer"}
+* [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001){:target="_blank" rel="noopener noreferrer"}
+* [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas (2022) - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001){:target="_blank" rel="noopener noreferrer"}
 * [Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ){:target="_blank" rel="noopener noreferrer"}
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd){:target="_blank" rel="noopener noreferrer"}
 
@@ -113,11 +111,11 @@ Opinions are my own.
 * Red Hat Application Development II: Implementing Microservice Architectures - JB283-1.0
 * Red Hat Certified Engineer Certification Lab - RH299-7
 * Red Hat Enterprise Linux Diagnostics and Troubleshooting - RH342-7.2
-* Red Hat JBoss Application Administration I & II - JB248-6.3-7 | JB348-6.3-7
+* Red Hat JBoss Application Administration I & II - JB248-6.3-7 & JB348-6.3-7
 * Red Hat JBoss Data Grid Development - JB453-6
-* Red Hat JBoss Enterprise Application Development I & II - JB225-6 | JB325-6
+* Red Hat JBoss Enterprise Application Development I & II - JB225-6 & JB325-6
 * Red Hat OpenShift Development I - DO288-3.6
-* Red Hat OpenShift Enterprise Administration - DO280-3.9-4.2 | DO380-3.6
+* Red Hat OpenShift Enterprise Administration - DO280-3.9-4.2 & DO380-3.6
 * Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster - DO280
 * Red Hat OpenShift Enterprise Development - DO290-3.05
 * Red Hat Security: Linux in Physical, Virtual, and Cloud - RH415-7.5
