@@ -21,6 +21,11 @@ Here is a list of the workshops that I have created, continue to maintain, and u
 * [Red Hat Quay Workshop](/quay-workshop){:target="_blank" rel="noopener noreferrer"}
 * [Red Hat Single Sign-On Workshop](/rhsso-workshop){:target="_blank" rel="noopener noreferrer"}
 
+# Publications
+
+* [ Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
+* [Fugas de información en JVM Heap Dumps – Extracción de claves privadas (2015) (ESP)](https://avanttic.com/blog/fugas-informacion-jvm-heap-dumps-extraccion-claves-privadas/)
+
 # Events
 
 * [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001){:target="_blank" rel="noopener noreferrer"}
