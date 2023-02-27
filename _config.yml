@@ -85,13 +85,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: "author"
-    values:
-      author_profile:
-        links:
-          target: _blank
 
 category_archive:
   type: liquid

@@ -5,21 +5,21 @@ title: "About"
 
 Angel is a Specialist Solution Architect with 10+ years of experience in IT, and has also served as a private tutor as well as a university-level instructor.
 
-He obtained a Bachelor's degree in Computer Engineering from Universitat Rovira i Virgili ([Escola Tècnica Superior d'Enginyeria](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf){:target="_blank" rel="noopener noreferrer"}) , where he also completed the teaching certificate. He obtained two Master's degrees in Computer Engineering from [Universitat Oberta de Catalunya](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html){:target="_blank" rel="noopener noreferrer"}, where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf){:target="_blank" rel="noopener noreferrer"}, providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627){:target="_blank" rel="noopener noreferrer"} at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees){:target="_blank" rel="noopener noreferrer"}.
+He obtained a Bachelor's degree in Computer Engineering from Universitat Rovira i Virgili ([Escola Tècnica Superior d'Enginyeria](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf)) , where he also completed the teaching certificate. He obtained two Master's degrees in Computer Engineering from [Universitat Oberta de Catalunya](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html), where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627) at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees).
 
 Additionally, he has authored some of the course materials for the Master's degree in Data Science, and has also served as a university instructor/consultant for programming university courses in the BSc in computer and telecommunications engineering.
 
 As a Specialist Solution Architect, he is currently focused on open source technologies for the enterprise, and he also participates in events as a speaker.
 In the past, during his professional career, he has worked as a software engineer, consultant, and support engineer; with a strong customer-oriented focus.
 
-In his free time, he focuses on hardware and software security, as well as contributing to open source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/){:target="_blank" rel="noopener noreferrer"}.
+In his free time, he focuses on hardware and software security, as well as contributing to open source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/).
 
 # Workshops
 
 Here is a list of the workshops that I have created, continue to maintain, and updating based on the new features that appear in the latest versions of the software.
 
-* [Red Hat Quay Workshop](/quay-workshop){:target="_blank" rel="noopener noreferrer"}
-* [Red Hat Single Sign-On Workshop](/rhsso-workshop){:target="_blank" rel="noopener noreferrer"}
+* [Red Hat Quay Workshop](/quay-workshop)
+* [Red Hat Single Sign-On Workshop](/rhsso-workshop)
 
 # Publications
 
@@ -28,10 +28,10 @@ Here is a list of the workshops that I have created, continue to maintain, and u
 
 # Events
 
-* [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001){:target="_blank" rel="noopener noreferrer"}
-* [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas (2022) - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001){:target="_blank" rel="noopener noreferrer"}
-* [Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ){:target="_blank" rel="noopener noreferrer"}
-* [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd){:target="_blank" rel="noopener noreferrer"}
+* [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001)
+* [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas (2022) - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
+* [Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
+* [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 # Certifications
 
