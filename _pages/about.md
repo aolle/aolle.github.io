@@ -16,14 +16,11 @@ In his free time, he focuses on hardware and software security, as well as contr
 
 # Workshops
 
-Here is a list of the workshops that I have created, continue to maintain, and updating based on the new features that appear in the latest versions of the software.
-
-* [Red Hat Quay Workshop](/quay-workshop)
-* [Red Hat Single Sign-On Workshop](/rhsso-workshop)
+Please, visit the [Worshops] section to learn more about the products and work done.
 
 # Publications
 
-* [ Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
+* [Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
 * [Fugas de información en JVM Heap Dumps – Extracción de claves privadas (2015) (ESP)](https://avanttic.com/blog/fugas-informacion-jvm-heap-dumps-extraccion-claves-privadas/)
 
 # Events
