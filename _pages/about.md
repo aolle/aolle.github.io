@@ -16,7 +16,7 @@ In his free time, he focuses on hardware and software security, as well as contr
 
 # Workshops
 
-Please, visit the [Worshops] section to learn more about the products and work done.
+Please, visit the [Worshops](/workshops) section to learn more about the products and work done.
 
 # Publications
 
@@ -29,6 +29,20 @@ Please, visit the [Worshops] section to learn more about the products and work d
 * [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas (2022) - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
 * [Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
+
+# Contributions to Open Source projects
+
+* OWASP WebGoat Project
+* Apache HTTP Server [1](https://lists.apache.org/thread/3somw05py164yq5y15to0yxthlv4yv99) [2](https://www.mail-archive.com/dev@httpd.apache.org/msg73978.html) [3](https://bugzilla.redhat.com/show_bug.cgi?id=1649470)
+* GCViewer
+* Quay Operator
+* Smallrye
+* Quarkus [1](https://quarkus.io/blog/quarkus-1-11-0-final-released/) [2](https://quarkus.io/blog/quarkus-2-16-0-final-released/)
+* RH-SSO [1](https://issues.redhat.com/browse/RHSSO-2252)
+
+# CVEs
+
+* [CVE-2023-0481](https://access.redhat.com/security/cve/cve-2023-0481)
 
 # Certifications
 
@@ -123,10 +137,3 @@ Please, visit the [Worshops] section to learn more about the products and work d
 * Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster - DO280
 * Red Hat OpenShift Enterprise Development - DO290
 * Red Hat Security: Linux in Physical, Virtual, and Cloud - RH415
-
-<!--
-TODO
-Other courses, coursera, udacity, etc
-# Open Source Contributions
-# CVEs
--->
