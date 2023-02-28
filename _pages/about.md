@@ -16,7 +16,7 @@ In his free time, he focuses on hardware and software security, as well as contr
 
 # Workshops
 
-Please, visit the [Worshops](/workshops) section to learn more about the products and work done.
+Please, visit the [Workshops](/workshops) section to learn more about the products and work done.
 
 # Publications
 
