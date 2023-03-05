@@ -36,7 +36,8 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * Apache HTTP Server [1](https://lists.apache.org/thread/3somw05py164yq5y15to0yxthlv4yv99) [2](https://www.mail-archive.com/dev@httpd.apache.org/msg73978.html) [3](https://bugzilla.redhat.com/show_bug.cgi?id=1649470)
 * GCViewer
 * Quay Operator
-* Smallrye
+* Smallrye-jwt
+* Smallrye-reactive-messaging [1](https://github.com/smallrye/smallrye-reactive-messaging/issues/1873)
 * Quarkus [1](https://quarkus.io/blog/quarkus-1-11-0-final-released/) [2](https://quarkus.io/blog/quarkus-2-16-0-final-released/)
 * RH-SSO [1](https://issues.redhat.com/browse/RHSSO-2252)
 * OpenShift (docs)
