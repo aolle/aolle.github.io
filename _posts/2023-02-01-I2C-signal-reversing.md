@@ -2,9 +2,7 @@
 title: "Reverse engineering I2C signals: How to decode and analyze data"
 ---
 
-In this post, I'm going to discuss reverse engineering of signals, focusing on a fictional scenario that could be part of a Capture The Flag (CTF) exercise. As I couldn't find any open references about that concrete scenario, there won't be any spoilers or references here.
-
-The main goal is to explain the process, logic, reconnaissance, and steps involved in achieving the objective while having fun.
+In this post, I'll delve into the art of reverse engineering signals, using a hypothetical scenario as an example. While I can't divulge any details about the specific situation, I hope to provide insights that will be useful for those interested in signal analysis and reverse engineering. So, let's get started!
 
 # Introduction and prior knowledge
 
