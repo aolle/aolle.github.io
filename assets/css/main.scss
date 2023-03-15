@@ -33,3 +33,11 @@ $h-size-6: 0.6em !default;
     font-size: 0.75em;
   }
 }
+
+.highlight {
+  margin: 0;
+  padding: 0.5em;
+  font-family: $monospace;
+  font-size: 0.8em;
+  line-height: 1.8;
+}
