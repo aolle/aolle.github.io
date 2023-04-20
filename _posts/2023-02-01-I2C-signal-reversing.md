@@ -145,7 +145,10 @@ class s2irev {
                dataFrames.add(value);
              }
          });
-       } catch(IOException e) {}
+       } catch(IOException e) {
+         System.err.println("An error occurred while reading the file: " + e.getMessage());
+         e.printStackTrace();
+       }
 
        for(int i = 0; i < dataFrames.size() - 1; i += 2) {
           int upperNibble = dataFrames.get(i)  & 0xF0;
