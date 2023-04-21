@@ -150,7 +150,8 @@ class s2irev {
          e.printStackTrace();
        }
 
-       for(int i = 0; i < dataFrames.size() - 1; i += 2) {
+       int size = dataFrames.size() - 1;
+       for(int i = 0; i < size; i += 2) {
           int upperNibble = dataFrames.get(i)  & 0xF0;
           int lowerNibble = dataFrames.get(i + 1) >> 4;
           System.out.println(Character.toString((char)(upperNibble | lowerNibble)));
