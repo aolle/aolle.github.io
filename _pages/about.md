@@ -38,7 +38,7 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * Quay Operator
 * Smallrye-jwt
 * Smallrye-reactive-messaging [1](https://github.com/smallrye/smallrye-reactive-messaging/issues/1873)
-* Quarkus [1](https://quarkus.io/blog/quarkus-1-11-0-final-released/) [2](https://quarkus.io/blog/quarkus-2-16-0-final-released/)
+* Quarkus [1](https://quarkus.io/blog/quarkus-1-11-0-final-released/) [2](https://quarkus.io/blog/quarkus-2-16-0-final-released/) [3](https://quarkus.io/blog/quarkus-3-0-final-released/)
 * RH-SSO [1](https://issues.redhat.com/browse/RHSSO-2252)
 * OpenShift (docs)
 
