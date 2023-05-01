@@ -60,11 +60,14 @@ author:
   bio    : "Specialist Solution Architect"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/angelolle/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aolle"
+    - label: "Red Hat Certification Central"
+      icon: "fab fa-fw fa-redhat"
+      url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
 
 defaults:
   # _posts
