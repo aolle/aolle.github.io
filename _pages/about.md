@@ -26,6 +26,8 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 
 # Events
 
+* [Modern Application Development Roadshow Madrid] (#)
+* [Modern Application Development Roadshow Barcelona](https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
 * [Red Hat & intel TechTalks: Open Tour Barcelona 2023 (Camp Nou) - Application Modernization](https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG)
 * [Red Hat & intel TechTalks: Demo Day 2022 (COAM Madrid) - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001)
 * [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas 2022 (Auditorio Fundació Joan Miró Barcelona) - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
