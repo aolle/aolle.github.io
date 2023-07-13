@@ -68,6 +68,9 @@ author:
     - label: "Red Hat Certification Central"
       icon: "fab fa-fw fa-redhat"
       url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
+    - label: "Credly"
+      icon: "fas fa-fw fa-certificate"
+      url: "https://www.credly.com/users/angel-olle-blazquez/badges"
 
 defaults:
   # _posts
