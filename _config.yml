@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Olle's Website
+footer_copyright: © 2023 - Àngel Ollé Blázquez.
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Specialist Solution Architect
