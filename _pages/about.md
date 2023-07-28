@@ -121,6 +121,9 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * Cloud Builder 2012 Sales Specialist
 * Cloud Builder 2012 PreSales Specialist
 
+# LinkedIn Learning Certificates
+
+* [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/certificates/ab4a8415a5dab9f735df3a3ee3b5b43d2acf57ab716765919b417ba568388084)
 
 # Courses
 
