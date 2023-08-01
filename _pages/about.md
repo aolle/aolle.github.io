@@ -48,6 +48,8 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 
 # CVEs
 
+List of CVEs discovered to date.
+
 * [CVE-2023-0481](https://access.redhat.com/security/cve/cve-2023-0481)
 * [CVE-2023-3384](https://access.redhat.com/security/cve/CVE-2023-3384)
 
@@ -125,7 +127,7 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 
 * [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/certificates/ab4a8415a5dab9f735df3a3ee3b5b43d2acf57ab716765919b417ba568388084)
 
-# Courses
+<!-- # Courses
 
 * Red Hat Cloud-native Microservices Development with Quarkus - DO378
 * Developing Event-driven Applications with Apache Kafka and Red Hat AMQ Streams - AD482
@@ -147,3 +149,4 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster - DO280
 * Red Hat OpenShift Enterprise Development - DO290
 * Red Hat Security: Linux in Physical, Virtual, and Cloud - RH415
+-->
