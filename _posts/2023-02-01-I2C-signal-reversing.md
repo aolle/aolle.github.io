@@ -33,7 +33,9 @@ By observing the original signal, we can notice that the frames include confirma
 After exporting the signal in hexadecimal and analyzing the data, we can observe that they are sequences of 8 bits corresponding to the illumination of each character in each column of the LCD panel matrix. Additionally, we can notice that if a number is smaller than 8 bits, it will be padded with zeros on the left to complete the 8-bit sequence.
 
 C8 = 11001000
+
 FD = 11111101
+
 F9 = 01111001
 
 To interpret the captured data, we can analyze the following source code:
