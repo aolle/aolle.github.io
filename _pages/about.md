@@ -46,9 +46,9 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * RH-SSO [1](https://issues.redhat.com/browse/RHSSO-2252)
 * OpenShift (docs)
 
-# CVEs
+# Vulnerability Reports
 
-List of CVEs discovered to date.
+List of vulnerability reports discovered to date.
 
 * [CVE-2023-0481](https://access.redhat.com/security/cve/cve-2023-0481)
 * [CVE-2023-3384](https://access.redhat.com/security/cve/CVE-2023-3384)
@@ -58,6 +58,7 @@ List of CVEs discovered to date.
 ## Red Hat Certifications
 
 * [Red Hat Certified Architect in Enterprise Applications Level III](https://www.redhat.com/en/services/certification/rhca)
+* [Red Hat Certified Specialist in Containers](https://www.redhat.com/en/services/training/ex188-red-hat-certified-specialist-containers-exam)
 * [Red Hat Certified Specialist in Event-Driven Application Development](https://www.redhat.com/en/services/training/red-hat-certified-specialist-event-driven-application-development-exam)
 * [Red Hat Certified Cloud-native Developer](https://www.redhat.com/en/services/training/red-hat-certified-cloud-native-developer-exam)
 * [Red Hat Certified Specialist in Containers and Kubernetes](https://www.redhat.com/en/services/training/ex180-red-hat-certified-specialist-containers-kubernetes-exam)
@@ -123,7 +124,9 @@ List of CVEs discovered to date.
 * Cloud Builder 2012 Sales Specialist
 * Cloud Builder 2012 PreSales Specialist
 
-# LinkedIn Learning Certificates
+## MOOCs Certificates
+
+## LinkedIn Learning Certificates
 
 * [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/certificates/ab4a8415a5dab9f735df3a3ee3b5b43d2acf57ab716765919b417ba568388084)
 
