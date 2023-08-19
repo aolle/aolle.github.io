@@ -14,7 +14,6 @@ $type-size-5 : 1.1em;
 $type-size-6 : 0.75em;
 $type-size-7 : 0.6875em;
 $type-size-8 : 0.625em;
-$type-size-5a : 0.9em;
 
 /* headline scale */
 $h-size-1: 1.25em !default;
@@ -39,6 +38,6 @@ $h-size-6: 0.6em !default;
   margin: 0;
   padding: 0.5em;
   font-family: $monospace;
-  font-size: $type-size-5a;
+  font-size: 0.8em;
   line-height: 1.8;
 }
