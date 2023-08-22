@@ -63,15 +63,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/angelolle/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aolle"
-    - label: "Red Hat Certification Central"
-      icon: "fab fa-fw fa-redhat"
-      url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
     - label: "Credly"
       icon: "fas fa-fw fa-certificate"
       url: "https://www.credly.com/users/angel-olle-blazquez/badges"
+    - label: "Red Hat Certification Central"
+      icon: "fab fa-fw fa-redhat"
+      url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aolle"
+
 
 defaults:
   # _posts
