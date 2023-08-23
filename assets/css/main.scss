@@ -5,6 +5,8 @@ search: false
 
 @charset "utf-8";
 
+//$link-color: black;
+
 /* type scale */
 $type-size-1 : 2.441em;
 $type-size-2 : 1.953em;
@@ -45,3 +47,14 @@ $h-size-6: 0.6em !default;
 .author__urls-wrapper {
   font-size: 0.8em;
 }
+
+a,
+a:hover,
+a:visited
+a:active {
+  text-decoration: none;
+}
+
+//.page .page__inner-wrap {
+//  width: 105%;
+//}
