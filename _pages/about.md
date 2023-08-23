@@ -34,7 +34,7 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * [Red Hat & intel: Red Hat Summit Connect Madrid 2022 (Círculo de Bellas Artes de Madrid. Casa Europa) : DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
 * [Red Hat Day: Iberdrola Edition 2022: JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
-# Contributions to Open Source projects
+<!--# Contributions to Open Source projects
 
 * OWASP WebGoat Project
 * Apache HTTP Server [1](https://lists.apache.org/thread/3somw05py164yq5y15to0yxthlv4yv99) [2](https://www.mail-archive.com/dev@httpd.apache.org/msg73978.html) [3](https://bugzilla.redhat.com/show_bug.cgi?id=1649470)
@@ -44,7 +44,7 @@ Please, visit the [Workshops](/workshops) section to learn more about the produc
 * Smallrye-reactive-messaging [1](https://github.com/smallrye/smallrye-reactive-messaging/issues/1873)
 * Quarkus [1](https://quarkus.io/blog/quarkus-1-11-0-final-released/) [2](https://quarkus.io/blog/quarkus-2-16-0-final-released/) [3](https://quarkus.io/blog/quarkus-3-0-final-released/)
 * RH-SSO [1](https://issues.redhat.com/browse/RHSSO-2252)
-* OpenShift (docs)
+* OpenShift (docs)-->
 
 # Vulnerability Reports
 
