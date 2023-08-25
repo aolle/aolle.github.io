@@ -128,7 +128,7 @@ List of vulnerability reports discovered to date.
 
 ## LinkedIn Learning Certificates
 
-* [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/certificates/ab4a8415a5dab9f735df3a3ee3b5b43d2acf57ab716765919b417ba568388084)
+* [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/advanced-c-programming-optimize-performance-and-efficiency)
 
 <!-- # Courses
 
