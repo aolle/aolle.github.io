@@ -22,6 +22,8 @@ github_username: aolle
 minimal_mistakes_skin: contrast
 search: true
 
+repository: aolle/aolle.github.io
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
