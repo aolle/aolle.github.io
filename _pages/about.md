@@ -3,11 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Angel is a Specialist Solution Architect with 10+ years of experience in IT, and has also served as a private tutor as well as a university-level instructor.
+Angel is a Specialist Solution Architect with 10+ years of experience in IT, and has also served as a private tutor as well as a university professor.
 
 He obtained a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/) (Escola Tècnica Superior d'Enginyeria), where he also completed the teaching certificate. He obtained two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html), where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627) at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees).
 
-Additionally, he has authored some of the course materials for the Master's degree in Data Science, and has also served as a university instructor for programming university courses in the BSc in Computer and Telecommunications Engineering.
+Additionally, he has authored some of the course materials for the Master's degree in Data Science, and has also served as a university professor for programming university courses in the BSc in Computer and Telecommunications Engineering.
 
 As a Specialist Solution Architect, he is currently focused on open source technologies for the enterprise, and he also participates in events as a speaker.
 
