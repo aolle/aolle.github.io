@@ -17,7 +17,9 @@ In his free time, he focuses on hardware and software security, as well as contr
 
 # Workshops
 
-Please, visit the [Workshops](/workshops) section to learn more about the products and work done.
+During my role as a Solutions Architect at Red Hat, I've had the opportunity to design various workshops tailored to our clients' needs.
+
+Visit the [Workshops](/workshops) section for more information.
 
 # Publications
 
