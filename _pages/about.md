@@ -19,6 +19,10 @@ In his free time, he focuses on hardware and software security, as well as contr
 
 During my role as a Solutions Architect at Red Hat, I've had the opportunity to design various workshops tailored to our clients' needs.
 
+These workshops encompass cutting-edge topics, delving into the expansive realm of the OpenShift ecosystem, modern application development practices, robust DevSecOps methodologies, and the intricacies of bolstering security through Single Sign-On (SSO) solutions.
+
+Each of these workshops reflects a dedication to remaining at the cutting edge of industry trends and a commitment to delivering invaluable insights and skills to our clients in these vital areas. These workshops consistently demonstrate the capacity to provide high-impact, forward-thinking solutions that empower our clients to excel in a constantly evolving technological landscape.
+
 Visit the [Workshops](/workshops) section for more information.
 
 # Publications
