@@ -41,6 +41,17 @@ Visit the [Workshops](/workshops) section for more information.
 * [Red Hat & intel: Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
+<!-- backup event links
+https://web.archive.org/web/20231023214010/https://www.redhat.com/en/summit/connect/emea/madrid-2023
+https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd
+https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001
+https://web.archive.org/web/20230612162837/https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG
+https://web.archive.org/web/20230716101236/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001
+https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001
+https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ
+https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd
+-->
+
 <!--# Contributions to Open Source projects
 
 * OWASP WebGoat Project
