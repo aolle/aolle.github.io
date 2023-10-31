@@ -91,7 +91,9 @@ List of vulnerability reports discovered to date.
 
 ## Microsoft Certifications
 
-* [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
+* [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
+* [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
+
 
 ## Linux Professional Institute Certifications
 
