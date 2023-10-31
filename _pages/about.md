@@ -133,7 +133,7 @@ List of vulnerability reports discovered to date.
 * Oracle Exalogic Elastic Cloud 2014 Support Specialist
 * Oracle Virtual Networking Support Specialist
 * Instantis EnterpriseTrack 8 Support Specialist
-* General Product Support Specialst
+* General Product Support Specialist
 * Oracle Argus Safety 7 Enterprise Edition Support Specialist
 * Enterprise Communications Support Specialist
 * Oracle WebLogic Server 12c Sales Specialist
