@@ -146,10 +146,10 @@ List of vulnerability reports discovered to date.
 
 ## Coursera
 
-* [Exploiting and Securing Vulnerabilities in Java Applications | UC Davis](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
-* Introduction to Data Science | University of Washington
-* Interprofessional Healthcare Informatics | University of Minnesota
-* Web Application Architectures | University of New Mexico
+* [Exploiting and Securing Vulnerabilities in Java Applications \| UC Davis](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
+* Introduction to Data Science \| University of Washington
+* Interprofessional Healthcare Informatics \| University of Minnesota
+* Web Application Architectures \| University of New Mexico
 
 ## Udacity
 
