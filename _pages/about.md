@@ -73,7 +73,7 @@ List of vulnerability reports discovered to date.
 
 # Certifications
 
-## Red Hat Certifications
+## Red Hat
 
 * [Red Hat Certified Architect in Enterprise Applications Level III](https://www.redhat.com/en/services/certification/rhca)
 * [Red Hat Certified Specialist in Containers](https://www.redhat.com/en/services/training/ex188-red-hat-certified-specialist-containers-exam)
@@ -89,27 +89,27 @@ List of vulnerability reports discovered to date.
 * [Red Hat Certificate of Expertise in Containerized Application Development](https://www.redhat.com/en/services/certification/retired-rhcs-containerized-application-development)
 * [Red Hat Certificate of Expertise in Fast-Cache Application Development](https://www.redhat.com/en/services/training/ex453-retired-red-hat-certified-specialist-in-fast-cache-application-development-exam)
 
-## Microsoft Certifications
+## Microsoft
 
 * [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 * [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
 
 
-## Linux Professional Institute Certifications
+## Linux Professional Institute
 
 * [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview)
 * [LPIC-2](https://www.lpi.org/our-certifications/lpic-2-overview)
 * [LPIC-3 (Security)](https://www.lpi.org/our-certifications/lpic-3-303-overview)
 
-## CompTIA Certifications
+## CompTIA
 
 * [CompTIA Linux+](https://www.comptia.org/en/certificaciones/linux)
 
-## AXELOS/EXIN Certifications
+## AXELOS/EXIN
 
 * ITIL v3 Foundation Certificate in IT Service Management
 
-## Oracle Certifications
+## Oracle
 
 * [Oracle IT Architecture Release 3 Certified Architecture Specialist](https://www.oracle.com/es/partnernetwork/expertise/license-hardware/it-architecture/)
 * Oracle Certified Professional, Java SE 6 Programmer
@@ -144,9 +144,19 @@ List of vulnerability reports discovered to date.
 * Cloud Builder 2012 Sales Specialist
 * Cloud Builder 2012 PreSales Specialist
 
-## MOOCs Certificates
+## Coursera
 
-## LinkedIn Learning Certificates
+* [Exploiting and Securing Vulnerabilities in Java Applications | UC Davis](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
+* Introduction to Data Science | University of Washington
+* Interprofessional Healthcare Informatics | University of Minnesota
+* Web Application Architectures | University of New Mexico
+
+## Udacity
+
+* [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+* [cs101: Building a Search Engine](https://www.cs.virginia.edu/~evans/courses/cs101/)
+
+## LinkedIn Learning
 
 * [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/advanced-c-programming-optimize-performance-and-efficiency)
 
