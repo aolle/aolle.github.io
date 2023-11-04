@@ -28,7 +28,9 @@ Visit the [Workshops](/workshops) section for more information.
 # Publications
 
 * [Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
-* [Fugas de información en JVM Heap Dumps – Extracción de claves privadas (2015) (ESP)](https://web.archive.org/web/20220129094528/https://avanttic.com/blog/fugas-informacion-jvm-heap-dumps-extraccion-claves-privadas/)
+
+<!-- I will write a post about this
+* [Fugas de información en JVM Heap Dumps – Extracción de claves privadas (2015) (ESP)](https://web.archive.org/web/20220129094528/https://avanttic.com/blog/fugas-informacion-jvm-heap-dumps-extraccion-claves-privadas/) -->
 
 # Events
 
