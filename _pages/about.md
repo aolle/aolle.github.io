@@ -15,6 +15,8 @@ During his professional career, he has worked as a software engineer, consultant
 
 In his free time, he focuses on hardware and software security, as well as contributing to open source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/).
 
+*Any opinions expressed are solely my own and do not express the views or opinions of my employer*.
+
 # Workshops
 
 During my role as a Solutions Architect at Red Hat, I've had the opportunity to design various workshops tailored to our clients' needs.
