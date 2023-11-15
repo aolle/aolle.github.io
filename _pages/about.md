@@ -36,6 +36,8 @@ Visit the [Workshops](/workshops) section for more information.
 
 # Events
 
+* [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
+* [Red Hat: Red Hat OpenShift Service on AWS Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
 * [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat's Device Edge](https://www.redhat.com/en/summit/connect/emea/madrid-2023)
 * [Red Hat & intel: Modern Application Development Roadshow Madrid 2023](https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd)
 * [Red Hat & intel: Modern Application Development Roadshow Barcelona 2023](https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
@@ -46,6 +48,8 @@ Visit the [Workshops](/workshops) section for more information.
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
+https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd
+https://web.archive.org/web/20231115112618/https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd
 https://web.archive.org/web/20231023214010/https://www.redhat.com/en/summit/connect/emea/madrid-2023
 https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd
 https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001
@@ -148,8 +152,11 @@ List of vulnerability reports discovered to date.
 * Cloud Builder 2012 Sales Specialist
 * Cloud Builder 2012 PreSales Specialist
 
+# Course Certificates
+
 ## Coursera
 
+* [Machine Learning Data Lifecycle in Production](https://www.coursera.org/account/accomplishments/verify/NS73LTCJTNCP)
 * [Exploiting and Securing Vulnerabilities in Java Applications \| UC Davis](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
 * Introduction to Data Science \| University of Washington
 * Interprofessional Healthcare Informatics \| University of Minnesota
