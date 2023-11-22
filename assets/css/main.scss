@@ -55,6 +55,44 @@ a:active {
   text-decoration: none;
 }
 
+.archive__item h2 a,
+.archive__item h2 a:visited {
+    color: black;
+    text-decoration: none;
+    position: relative;
+}
+
+.archive__item h2 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+
+.greedy-nav .visible-links a::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    background: black;
+    width: 100%;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+    transform: scaleX(0) translate3d(0, 0, 0);
+}
+
+.search__toggle {
+  color: black;
+  cursor: pointer;
+}
+
+.search__toggle:hover {
+ color:#333
+}
+
+
+
 //.page .page__inner-wrap {
 //  width: 105%;
 //}
