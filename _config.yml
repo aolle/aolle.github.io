@@ -63,7 +63,7 @@ author:
   bio    : "Specialist Solution Architect"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin icon-black"
       url: "https://www.linkedin.com/in/angelolle/"
     - label: "Credly"
       icon: "fas fa-fw fa-certificate"
