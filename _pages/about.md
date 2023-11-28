@@ -49,14 +49,25 @@ Visit the [Workshops](/workshops) section for more information.
 
 <!-- backup event links
 https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd
+
 https://web.archive.org/web/20231115112618/https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd
-https://web.archive.org/web/20231023214010/https://www.redhat.com/en/summit/connect/emea/madrid-2023
+
+https://web.archive.org/web/20231127230643/https://www.redhat.com/en/summit/connect/emea/madrid-2023
+
+https://web.archive.org/web/20231127230743/https://images.engage.redhat.com/Web/RedHat/%7B5cc12f29-8e95-44fb-ba48-d0175ce27fcf%7D_Accelerating_Artificial_Intelligence_solutions_with_Intel_and_Red_Hat.pdf
+
 https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd
+
 https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001
+
 https://web.archive.org/web/20230612162837/https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG
+
 https://web.archive.org/web/20230716101236/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001
+
 https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001
+
 https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ
+
 https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd
 -->
 
@@ -156,7 +167,7 @@ List of vulnerability reports discovered to date.
 
 ## Coursera
 
-* [Machine Learning Data Lifecycle in Production](https://www.coursera.org/account/accomplishments/verify/NS73LTCJTNCP)
+* [Machine Learning Data Lifecycle in Production \| DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/NS73LTCJTNCP)
 * [Exploiting and Securing Vulnerabilities in Java Applications \| UC Davis](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
 * Introduction to Data Science \| University of Washington
 * Interprofessional Healthcare Informatics \| University of Minnesota
