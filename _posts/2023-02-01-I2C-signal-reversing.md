@@ -135,7 +135,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
-class s2irev {
+class i2crev {
     static List<Integer> dataFrames = new ArrayList<>();
     static int RS = 0x01;
     static int EN = 0x04;
