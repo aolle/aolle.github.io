@@ -38,7 +38,7 @@ Visit the [Workshops](/workshops) section for more information.
 
 * [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
 * [Red Hat: Red Hat OpenShift Service on AWS Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
-* [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat's Device Edge](https://www.redhat.com/en/summit/connect/emea/madrid-2023)
+* [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat](https://www.redhat.com/en/summit/connect/emea/madrid-2023)
 * [Red Hat & intel: Modern Application Development Roadshow Madrid 2023](https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd)
 * [Red Hat & intel: Modern Application Development Roadshow Barcelona 2023](https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
 * [Red Hat & intel TechTalks: Open Tour Barcelona 2023 - Application Modernization](https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG)
