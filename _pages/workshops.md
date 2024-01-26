@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "Workshops"
 ---
 
-.
+* [Mastering Web Troubleshooting](/troubleshooting-workshop) *(coming soon)*
 
 ## Red Hat Workshops
 
