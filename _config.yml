@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Àngel Ollé Blázquez"
-  avatar : "/assets/images/bio-photo.jpg"
+#  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Specialist Solution Architect"
   links:
     - label: "LinkedIn"
