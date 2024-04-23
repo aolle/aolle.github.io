@@ -36,7 +36,8 @@ Visit the [Workshops](/workshops) section for more information.
 
 # Events
 
-* [Red Hat & intel: Red Hat Open Tour 2024 - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
+* [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
+* [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
 * [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
 * [Red Hat: Red Hat OpenShift Service on AWS Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
 * [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat](https://www.redhat.com/en/summit/connect/emea/madrid-2023)
@@ -49,6 +50,9 @@ Visit the [Workshops](/workshops) section for more information.
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
+
+TODO OT24Coruña
+
 https://web.archive.org/web/20240228155049/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd
 
 https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd
