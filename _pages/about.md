@@ -36,6 +36,7 @@ Visit the [Workshops](/workshops) section for more information.
 
 # Events
 
+* [Immersion Days: End-to-end application development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
 * [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
@@ -51,7 +52,9 @@ Visit the [Workshops](/workshops) section for more information.
 
 <!-- backup event links
 
-TODO OT24Coruña
+https://web.archive.org/web/20240530104751/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd
+
+https://web.archive.org/web/20240530104318/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd
 
 https://web.archive.org/web/20240228155049/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd
 
