@@ -99,6 +99,9 @@ https://web.archive.org/web/20240324143212/https://static.unir.net/ingenieria/ma
 https://web.archive.org/web/20240324143247/https://www.unir.net/ingenieria/curso-devops-cloud-computing-produccion-software/claustro/
 
 https://web.archive.org/web/20240324143318/https://www.unir.net/profesores/angel-olle-blazquez/
+
+https://web.archive.org/web/20240624172701/https://kschool.com/cursos/curso-devops-cloud/
+
 -->
 
 # Vulnerability Reports
