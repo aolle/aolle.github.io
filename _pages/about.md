@@ -3,29 +3,29 @@ permalink: /about/
 title: "About"
 ---
 
-Angel is a Specialist Solution Architect with 10+ years of experience in IT, and has also served as a private tutor as well as a university professor.
+Angel is a Specialist Solution Architect with over 10 years of experience in IT, as well as a seasoned private tutor and university professor.
 
-He obtained a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/) (Escola Tècnica Superior d'Enginyeria), where he also completed the teaching certificate. He obtained two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html), where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627) at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees).
+He earned a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/) (Escola Tècnica Superior d'Enginyeria), where he also completed a teaching certificate. Currently, he is pursuing a university degree in Psychology to broaden his expertise. Additionally, he holds two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html), where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627) at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees).
 
-Additionally, he has authored some of the course materials for the Master's degree in Data Science, and has also served as a university professor for programming university courses in the BSc in Computer and Telecommunications Engineering.
+Angel has authored course materials for the Master's degree in Data Science and has taught programming university courses within the BSc in Computer and Telecommunications Engineering. He has also taught advanced courses in DevSecOps as part of a specialized university program.
 
-As a Specialist Solution Architect, he is currently focused on open source technologies for the enterprise, and he also participates in events as a speaker.
+As a Specialist Solution Architect, his current focus is on leveraging open-source technologies for enterprise solutions. He is also an active participant in industry events as a speaker.
 
-During his professional career, he has worked as a software engineer, consultant, and support engineer, with a strong customer-oriented focus. His journey has afforded him the opportunity to travel throughout his country, as well as provide on-site assistance to clients in various regions of Europe, including Germany, the Netherlands, and Belgium. In his support role, he has helped clients worldwide.
+Throughout his career, Angel has worked as a software engineer, consultant, and support engineer, always maintaining a strong customer-oriented approach. His roles have allowed him to travel extensively within his country and across Europe, providing on-site assistance to clients in regions including Germany, the Netherlands, and Belgium. In his support role, he has aided clients worldwide.
 
-In his free time, he focuses on hardware and software security, as well as contributing to open source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/).
+In his free time, Angel is passionate about hardware and software security and contributes to open-source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/).
 
 *Any opinions expressed are solely my own and do not express the views or opinions of my employer*.
 
 # Workshops
 
-During my role as a Solutions Architect at Red Hat, I've had the opportunity to design various workshops tailored to our clients' needs.
+In my role as a Solutions Architect, I've had the privilege of designing a range of workshops tailored to meet the specific needs of our clients.
 
-These workshops encompass cutting-edge topics, delving into the expansive realm of the OpenShift ecosystem, modern application development practices, robust DevSecOps methodologies, and the intricacies of bolstering security through Single Sign-On (SSO) solutions.
+These workshops cover advanced and innovative topics within the expansive OpenShift ecosystem, modern application development practices, robust DevSecOps methodologies, and the critical enhancement of security through Single Sign-On (SSO) solutions.
 
-Each of these workshops reflects a dedication to remaining at the cutting edge of industry trends and a commitment to delivering invaluable insights and skills to our clients in these vital areas. These workshops consistently demonstrate the capacity to provide high-impact, forward-thinking solutions that empower our clients to excel in a constantly evolving technological landscape.
+Each workshop is crafted to stay at the forefront of industry trends, delivering valuable insights and practical skills that empower our clients in these essential areas. These sessions consistently showcase our ability to provide high-impact, forward-thinking solutions, enabling our clients to thrive in an ever-evolving technological landscape.
 
-Visit the [Workshops](/workshops) section for more information.
+For more details, please visit the [Workshops](/workshops) section.
 
 # Publications
 
