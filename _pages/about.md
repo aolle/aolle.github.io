@@ -116,6 +116,7 @@ List of vulnerability reports discovered to date.
 ## Red Hat
 
 * [Red Hat Certified Architect in Enterprise Applications Level III](https://www.redhat.com/en/services/certification/rhca)
+* [Red Hat Certified Specialist in OpenShift AI](https://www.redhat.com/en/services/training/ex267-red-hat-certified-specialist-openshift-ai)
 * [Red Hat Certified Specialist in Containers](https://www.redhat.com/en/services/training/ex188-red-hat-certified-specialist-containers-exam)
 * [Red Hat Certified Specialist in Event-Driven Application Development](https://www.redhat.com/en/services/training/red-hat-certified-specialist-event-driven-application-development-exam)
 * [Red Hat Certified Cloud-native Developer](https://www.redhat.com/en/services/training/red-hat-certified-cloud-native-developer-exam)
