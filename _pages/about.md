@@ -36,7 +36,8 @@ For more details, please visit the [Workshops](/workshops) section.
 
 # Events
 
-* [Immersion Days: End-to-end application development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
+* [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
+* [Immersion Days: End-to-end application development | Cloud Native Development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
 * [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
@@ -51,6 +52,8 @@ For more details, please visit the [Workshops](/workshops) section.
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
+
+https://web.archive.org/web/20241212233941/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd
 
 https://web.archive.org/web/20240530104751/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd
 
@@ -110,6 +113,12 @@ List of vulnerability reports discovered to date.
 
 * [CVE-2023-0481](https://access.redhat.com/security/cve/cve-2023-0481)
 * [CVE-2023-3384](https://access.redhat.com/security/cve/CVE-2023-3384)
+
+<!--
+
+
+
+-->
 
 # Certifications
 
