@@ -37,7 +37,7 @@ For more details, please visit the [Workshops](/workshops) section.
 # Events
 
 * [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
-* [Immersion Days: End-to-end application development | Cloud Native Development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
+* [Immersion Days: End-to-end application development - Cloud Native Development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
 * [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
@@ -212,27 +212,3 @@ List of vulnerability reports discovered to date.
 ## LinkedIn Learning
 
 * [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/advanced-c-programming-optimize-performance-and-efficiency)
-
-<!-- # Courses
-
-* Red Hat Cloud-native Microservices Development with Quarkus - DO378
-* Developing Event-driven Applications with Apache Kafka and Red Hat AMQ Streams - AD482
-* Building Resilient Microservices with Istio and Red Hat OpenShift Service Mesh - DO328
-* Red Hat DevOps Pipelines and Processes - DO400
-* Cloud-native Integration with Red Hat Fuse - AD221
-* Automation with Ansible IAutomation with Ansible I - DO407
-* Automation with Ansible II: Ansible Tower - DO409
-* Containerizing Software Applications - DO276
-* Red Hat Application Development I: Programming in Java EE - JB183
-* Red Hat Application Development II: Implementing Microservice Architectures - JB283
-* Red Hat Certified Engineer Certification Lab - RH299
-* Red Hat Enterprise Linux Diagnostics and Troubleshooting - RH342
-* Red Hat JBoss Application Administration I & II - JB248 & JB348
-* Red Hat JBoss Data Grid Development - JB453
-* Red Hat JBoss Enterprise Application Development I & II - JB225 & JB325
-* Red Hat OpenShift Development I - DO288
-* Red Hat OpenShift Enterprise Administration - DO280-3.9 & DO380
-* Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster - DO280
-* Red Hat OpenShift Enterprise Development - DO290
-* Red Hat Security: Linux in Physical, Virtual, and Cloud - RH415
--->
