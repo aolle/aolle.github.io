@@ -82,6 +82,13 @@ https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/for
 https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ
 
 https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd
+
+https://www.linkedin.com/posts/red-hat_virtualizaciaejn-automatizaciaejn-edge-activity-7207112014505086976-U6Bh
+
+https://www.linkedin.com/posts/red-hat_opentour-hybridcloud-automatizaciaejn-activity-7074054769354440705-MMRF
+
+https://www.linkedin.com/posts/ferrangarciapagans_redhat-devops-opensource-activity-7072506735898296320-XkHg?utm_source=share&utm_medium=member_desktop
+
 -->
 
 <!--# Contributions to Open Source projects
