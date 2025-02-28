@@ -36,6 +36,7 @@ For more details, please visit the [Workshops](/workshops) section.
 
 # Events
 
+* [Red Hat Tech Talks Always On: Generative AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd)
 * [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
 * [Immersion Days: End-to-end application development - Cloud Native Development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
@@ -52,6 +53,8 @@ For more details, please visit the [Workshops](/workshops) section.
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
+
+https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd
 
 https://web.archive.org/web/20241212233941/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd
 
