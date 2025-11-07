@@ -27,6 +27,8 @@ Each workshop is crafted to stay at the forefront of industry trends, delivering
 
 For more details, please visit the [Workshops](/workshops) section.
 
+# 
+
 # Publications
 
 * [Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
@@ -36,7 +38,10 @@ For more details, please visit the [Workshops](/workshops) section.
 
 # Events
 
+* [Red Hat Summit: Connect 2025](https://www.redhat.com/en/summit/connect/emea/madrid-2025)
+* [Immersion Days: Event-Driven Architecture](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
 * [Red Hat Tech Talks Always On: Generative AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd)
+<!--https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322458abcd-->
 * [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
 * [Immersion Days: End-to-end application development - Cloud Native Development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
 * [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
@@ -53,6 +58,10 @@ For more details, please visit the [Workshops](/workshops) section.
 * [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
+
+https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025
+
+https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd
 
 https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd
 
@@ -114,6 +123,13 @@ https://web.archive.org/web/20240324143247/https://www.unir.net/ingenieria/curso
 https://web.archive.org/web/20240324143318/https://www.unir.net/profesores/angel-olle-blazquez/
 
 https://web.archive.org/web/20240624172701/https://kschool.com/cursos/curso-devops-cloud/
+
+-->
+
+<!-- TODO
+
+https://formacion-amtega.xunta.gal/course/info.php?id=62&lang=es
+https://www.unir.net/profesores/angel-olle-blazquez/
 
 -->
 
