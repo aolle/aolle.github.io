@@ -27,8 +27,6 @@ Each workshop is crafted to stay at the forefront of industry trends, delivering
 
 For more details, please visit the [Workshops](/workshops) section.
 
-# 
-
 # Publications
 
 * [Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
