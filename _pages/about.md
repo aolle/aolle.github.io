@@ -36,62 +36,28 @@ For more details, please visit the [Workshops](/workshops) section.
 
 # Events
 
-* [Red Hat Summit: Connect 2025](https://www.redhat.com/en/summit/connect/emea/madrid-2025)
-* [Immersion Days: Event-Driven Architecture](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
-* [Red Hat Tech Talks Always On: Generative AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd)
+* [Red Hat Summit: Connect 2025](https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025)
+* [Immersion Days: Event-Driven Architecture](https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
+* [Red Hat Tech Talks Always On: Generative AI](https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd)
 <!--https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322458abcd-->
-* [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
-* [Immersion Days: End-to-end application development - Cloud Native Development](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
-* [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
-* [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
-* [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
-* [Red Hat: Red Hat OpenShift Service on AWS Hands-on](https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
-* [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat](https://www.redhat.com/en/summit/connect/emea/madrid-2023)
-* [Red Hat & intel: Modern Application Development Roadshow Madrid 2023](https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd)
-* [Red Hat & intel: Modern Application Development Roadshow Barcelona 2023](https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
-* [Red Hat & intel TechTalks: Open Tour Barcelona 2023 - Application Modernization](https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG)
-* [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001)
-* [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas 2022 - Edge Computing and Data Ingest](https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
-* [Red Hat & intel: Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
-* [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
+* [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://web.archive.org/web/20241212233941/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
+* [Immersion Days: End-to-end application development - Cloud Native Development](https://web.archive.org/web/20240530104751/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
+* [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://web.archive.org/web/20240530104318/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
+* [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://web.archive.org/web/20240228155049/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
+* [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
+* [Red Hat: Red Hat OpenShift Service on AWS Hands-on](https://web.archive.org/web/20231115112618/https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
+* [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat](https://web.archive.org/web/20231127230643/https://www.redhat.com/en/summit/connect/emea/madrid-2023)
+* [Red Hat & intel: Modern Application Development Roadshow Madrid 2023](https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd)
+* [Red Hat & intel: Modern Application Development Roadshow Barcelona 2023](https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
+* [Red Hat & intel TechTalks: Open Tour Barcelona 2023 - Application Modernization](https://web.archive.org/web/20230612162837/https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG)
+* [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://web.archive.org/web/20230716101236/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001)
+* [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas 2022 - Edge Computing and Data Ingest](https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
+* [Red Hat & intel: Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
+* [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
 
-https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025
-
-https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd
-
-https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd
-
-https://web.archive.org/web/20241212233941/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd
-
-https://web.archive.org/web/20240530104751/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd
-
-https://web.archive.org/web/20240530104318/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd
-
-https://web.archive.org/web/20240228155049/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd
-
-https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd
-
-https://web.archive.org/web/20231115112618/https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd
-
-https://web.archive.org/web/20231127230643/https://www.redhat.com/en/summit/connect/emea/madrid-2023
-
 https://web.archive.org/web/20231127230743/https://images.engage.redhat.com/Web/RedHat/%7B5cc12f29-8e95-44fb-ba48-d0175ce27fcf%7D_Accelerating_Artificial_Intelligence_solutions_with_Intel_and_Red_Hat.pdf
-
-https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd
-
-https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001
-
-https://web.archive.org/web/20230612162837/https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG
-
-https://web.archive.org/web/20230716101236/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001
-
-https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001
-
-https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ
-
-https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd
 
 https://www.linkedin.com/posts/red-hat_virtualizaciaejn-automatizaciaejn-edge-activity-7207112014505086976-U6Bh
 
