@@ -106,7 +106,8 @@ List of vulnerability reports discovered to date.
 
 <!--
 
-
+https://web.archive.org/web/20260210085943/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-3384.json
+https://web.archive.org/web/20260210090129/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-0481.json
 
 -->
 
