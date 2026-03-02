@@ -36,6 +36,11 @@ For more details, please visit the [Workshops](/workshops) section.
 
 # Events
 
+<!-- 
+https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage
+-->
+* [Congreso Nacional de Innovación y Servicios Públicos (CNIS) - National Congress on Innovation and Public Services - Zero Trust in OpenShift: Security Pillars in Container and Hybrid Cloud Environments](https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/)
+* [Native Infused AI with Quarkus & GraalVM](https://www.redhat.com/es/events/webinar/native-ai-infusion-with-quarkus-and-graalvm)
 * [Red Hat Summit: Connect 2025](https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025)
 * [Immersion Days: Event-Driven Architecture](https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
 * [Red Hat Tech Talks Always On: Generative AI](https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd)
@@ -106,8 +111,18 @@ List of vulnerability reports discovered to date.
 
 <!--
 
+-->
+
+<!--
+
 https://web.archive.org/web/20260210085943/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-3384.json
 https://web.archive.org/web/20260210090129/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-0481.json
+https://web.archive.org/web/20260212182210/https://www.redhat.com/es/events/webinar/native-ai-infusion-with-quarkus-and-graalvm
+https://web.archive.org/web/20260212191704/https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/
+https://web.archive.org/web/20260213122840/https://www.cnis.es/ponentes-cnis-2026/
+https://web.archive.org/web/20260213122847/https://www.cnis.es/speakers/angel-olle-blazquez/
+https://web.archive.org/web/20260217155430/https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage
+https://web.archive.org/web/20260223160928/https://www.cnis.es/cnis2026/CNIS%202026%20agenda.pdf
 
 -->
 
