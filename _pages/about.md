@@ -13,7 +13,7 @@ As a Specialist Solution Architect, his current focus is on leveraging open-sour
 
 Throughout his career, Angel has worked as a software engineer, consultant, and support engineer, always maintaining a strong customer-oriented approach. His roles have allowed him to travel extensively within his country and across Europe, providing on-site assistance to clients in regions including Germany, the Netherlands, and Belgium. In his support role, he has aided clients worldwide.
 
-In his free time, Angel is passionate about hardware and software security and contributes to open-source projects. He is currently one of the developers for the [OWASP WebGoat project](https://owasp.org/www-project-webgoat/).
+In his free time, Angel is passionate about hardware and software security and contributes to open-source projects.
 
 *Any opinions expressed are solely my own and do not express the views or opinions of my employer*.
 
@@ -36,10 +36,9 @@ For more details, please visit the [Workshops](/workshops) section.
 
 # Events
 
-<!-- 
-https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage
--->
+* [Tech Day Madrid 2026](https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage)
 * [Congreso Nacional de Innovación y Servicios Públicos (CNIS) - National Congress on Innovation and Public Services - Zero Trust in OpenShift: Security Pillars in Container and Hybrid Cloud Environments](https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/)
+<!-- https://www.youtube.com/watch?v=Q5MS7OuYUFo -->
 * [Native Infused AI with Quarkus & GraalVM](https://www.redhat.com/es/events/webinar/native-ai-infusion-with-quarkus-and-graalvm)
 * [Red Hat Summit: Connect 2025](https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025)
 * [Immersion Days: Event-Driven Architecture](https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
@@ -70,6 +69,8 @@ https://www.linkedin.com/posts/red-hat_opentour-hybridcloud-automatizaciaejn-act
 
 https://www.linkedin.com/posts/ferrangarciapagans_redhat-devops-opensource-activity-7072506735898296320-XkHg?utm_source=share&utm_medium=member_desktop
 
+https://web.archive.org/web/20260329212337/https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage
+
 -->
 
 <!--# Contributions to Open Source projects
@@ -93,6 +94,8 @@ https://web.archive.org/web/20240324143318/https://www.unir.net/profesores/angel
 
 https://web.archive.org/web/20240624172701/https://kschool.com/cursos/curso-devops-cloud/
 
+https://web.archive.org/web/20260329212337/https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage
+
 -->
 
 <!-- TODO
@@ -106,6 +109,7 @@ https://www.unir.net/profesores/angel-olle-blazquez/
 
 List of vulnerability reports discovered to date.
 
+* [CVE-2026-4981](https://access.redhat.com/security/cve/cve-2026-4981)
 * [CVE-2023-0481](https://access.redhat.com/security/cve/cve-2023-0481)
 * [CVE-2023-3384](https://access.redhat.com/security/cve/CVE-2023-3384)
 
