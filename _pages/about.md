@@ -121,6 +121,8 @@ List of vulnerability reports discovered to date.
 
 https://web.archive.org/web/20260210085943/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-3384.json
 https://web.archive.org/web/20260210090129/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-0481.json
+https://web.archive.org/web/20260331213229/https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2026-4981.json
+
 https://web.archive.org/web/20260212182210/https://www.redhat.com/es/events/webinar/native-ai-infusion-with-quarkus-and-graalvm
 https://web.archive.org/web/20260212191704/https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/
 https://web.archive.org/web/20260213122840/https://www.cnis.es/ponentes-cnis-2026/
