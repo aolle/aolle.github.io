@@ -1,3 +1,8 @@
+---
+permalink: /workshops/
+title: "Workshops"
+---
+
 ## Red Hat technology Workshops
 
 Presented below is a list of the Red Hat-related technologies workshops that I have created, continue to maintain, and update based on the new features that appear in the latest versions of the software.
