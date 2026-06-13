@@ -31,11 +31,9 @@ For more details, please visit the [Workshops](/workshops) section.
 
 * [Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
 
-<!-- I will write a post about this
-* [Fugas de información en JVM Heap Dumps – Extracción de claves privadas (2015) (ESP)](https://web.archive.org/web/20220129094528/https://avanttic.com/blog/fugas-informacion-jvm-heap-dumps-extraccion-claves-privadas/) -->
-
 # Events
 
+* [Innovate together Barcelona 2026](https://reg.experiences.redhat.com/flow/redhat/3435200/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000472798)
 * [Tech Day Madrid 2026](https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage)
 * [Congreso Nacional de Innovación y Servicios Públicos (CNIS) - National Congress on Innovation and Public Services - Zero Trust in OpenShift: Security Pillars in Container and Hybrid Cloud Environments](https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/)
 <!-- https://www.youtube.com/watch?v=Q5MS7OuYUFo -->
@@ -70,6 +68,8 @@ https://www.linkedin.com/posts/red-hat_opentour-hybridcloud-automatizaciaejn-act
 https://www.linkedin.com/posts/ferrangarciapagans_redhat-devops-opensource-activity-7072506735898296320-XkHg?utm_source=share&utm_medium=member_desktop
 
 https://web.archive.org/web/20260329212337/https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage
+
+https://web.archive.org/web/20260521110146/https://reg.experiences.redhat.com/flow/redhat/3435200/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000472798
 
 -->
 
