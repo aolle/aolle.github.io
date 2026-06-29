@@ -3,27 +3,35 @@ permalink: /about/
 title: "About"
 ---
 
-Angel is a Specialist Solution Architect with over 10 years of experience in IT, as well as a seasoned private tutor and university professor.
+Angel is a Specialist Solution Architect, a seasoned private tutor, and a university professor with a strong focus on leveraging open-source technologies for enterprise solutions. 
 
-He earned a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/) (Escola Tècnica Superior d'Enginyeria), where he also completed a teaching certificate. Currently, he is pursuing a university degree in Psychology to broaden his expertise. Additionally, he holds two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html), where his Master's thesis was [research-oriented](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), providing his with competencies related to the field of scientific research. Currently published [here](https://www.recercat.cat/handle/2072/251627) at [RECERCAT - Dipòsit de la Recerca de Catalunya](https://www.recercat.cat/quees).
+### Professional Background
+Throughout his career as a software engineer, consultant, and support engineer, Angel has consistently maintained a customer-centric approach. This versatile background has allowed him to support a global client base remotely and travel extensively across Europe to provide hands-on, on-site assistance. Today, he is also an active participant and speaker at industry events.
 
-Angel has authored course materials for the Master's degree in Data Science and has taught programming university courses within the BSc in Computer and Telecommunications Engineering. He has also taught advanced courses in DevSecOps as part of a specialized university program.
+### Academic & Teaching Experience
+In the academic sphere, Angel has authored course materials for the Master's degree in Data Science and taught programming courses for the BSc in Computer and Telecommunications Engineering. Additionally, he teaches advanced DevSecOps courses as part of a specialized university program.
 
-As a Specialist Solution Architect, his current focus is on leveraging open-source technologies for enterprise solutions. He is also an active participant in industry events as a speaker.
+### Education & Research
+Angel holds a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/), where he also earned a teaching certificate. He furthered his studies with two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html). 
 
-Throughout his career, Angel has worked as a software engineer, consultant, and support engineer, always maintaining a strong customer-oriented approach. His roles have allowed him to travel extensively within his country and across Europe, providing on-site assistance to clients in regions including Germany, the Netherlands, and Belgium. In his support role, he has aided clients worldwide.
+His [research-oriented Master's thesis](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), currently published at [RECERCAT](https://www.recercat.cat/handle/2072/251627), equipped him with strong competencies in scientific research. To continue broadening his expertise, he is currently pursuing a university degree in Psychology.
 
-In his free time, Angel is passionate about hardware and software security and contributes to open-source projects.
+### Interests
+In his free time, Angel is passionate about hardware and software security and actively contributes to open-source projects.
 
-*Any opinions expressed are solely my own and do not express the views or opinions of my employer*.
+> *Any opinions expressed here are solely my own and do not represent the views or opinions of my employer.*
+
+---
 
 # Workshops
 
-In my role as a Solutions Architect, I've had the privilege of designing a range of workshops tailored to meet the specific needs of our clients.
+In my role as a Solutions Architect, I have the privilege of designing tailored workshops to meet the specific technical and strategic needs of our clients. 
 
-These workshops cover advanced and innovative topics within the expansive OpenShift ecosystem, modern application development practices, robust DevSecOps methodologies, and the critical enhancement of security through Single Sign-On (SSO) solutions.
+Crafted to stay at the forefront of industry trends, these sessions deliver practical skills and valuable insights to empower clients in an ever-evolving technological landscape. Topics cover advanced and innovative areas within the expansive OpenShift ecosystem, including:
 
-Each workshop is crafted to stay at the forefront of industry trends, delivering valuable insights and practical skills that empower our clients in these essential areas. These sessions consistently showcase our ability to provide high-impact, forward-thinking solutions, enabling our clients to thrive in an ever-evolving technological landscape.
+* Modern application development practices.
+* Robust DevSecOps methodologies.
+* Security enhancements through Single Sign-On (SSO) solutions.
 
 For more details, please visit the [Workshops](/workshops) section.
 
