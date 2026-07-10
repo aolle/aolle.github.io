@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Olle's Blog
+title: "Olleb // Log"
 footer_copyright: Àngel Ollé Blázquez
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Senior Specialist Solution Architect
+description: "Personal blog about Cyber Security, Reverse Engineering, and Systems Administration."
 github_username: aolle
 minimal_mistakes_skin: contrast
 search: true
@@ -60,7 +59,7 @@ plugins:
 author:
   name   : "Àngel Ollé Blázquez"
 #  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Specialist Solution Architect"
+  bio    : ""
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin icon-black"
@@ -68,9 +67,9 @@ author:
     - label: "Credly"
       icon: "fas fa-fw fa-certificate"
       url: "https://www.credly.com/users/angel-olle-blazquez/badges"
-    - label: "Red Hat Certification Central"
-      icon: "fab fa-fw fa-redhat"
-      url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
+#    - label: "Red Hat Certification Central"
+#      icon: "fab fa-fw fa-redhat"
+#      url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aolle"
