@@ -3,69 +3,61 @@ permalink: /about/
 title: "About"
 ---
 
-Angel is a Specialist Solution Architect, a seasoned private tutor, and a university professor with a strong focus on leveraging open-source technologies for enterprise solutions. 
+I am a Senior Specialist Solution Architect, university professor, and seasoned private tutor deeply focused on leveraging open-source technologies to build resilient enterprise solutions.
 
 ### Professional Background
-Throughout his career as a software engineer, consultant, and support engineer, Angel has consistently maintained a customer-centric approach. This versatile background has allowed him to support a global client base remotely and travel extensively across Europe to provide hands-on, on-site assistance. Today, he is also an active participant and speaker at industry events.
+Throughout my career as a software engineer, consultant, and support engineer, I have consistently maintained a customer-centric approach. This versatile background has enabled me to support a global client base remotely and travel extensively across Europe providing hands-on, on-site assistance. Today, I combine this enterprise expertise with active participation as a speaker at key industry events.
 
 ### Academic & Teaching Experience
-In the academic sphere, Angel has authored course materials for the Master's degree in Data Science and taught programming courses for the BSc in Computer and Telecommunications Engineering. Additionally, he teaches advanced DevSecOps courses as part of a specialized university program.
+In the academic sphere, I have authored advanced course materials for the Master's degree in Data Science and taught programming courses for the BSc in Computer and Telecommunications Engineering. Additionally, I design and teach specialized university programs focused on advanced DevSecOps methodologies.
 
 ### Education & Research
-Angel holds a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/), where he also earned a teaching certificate. He furthered his studies with two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html). 
+I hold a Bachelor's degree in [Computer Engineering](https://web.archive.org/web/20100623022420/http://www.etse.urv.cat/sections/general/guia_docent/caES/2002_2003/guiadocent_2002_2003_informatica.pdf) from [Universitat Rovira i Virgili](https://www.etse.urv.cat/en/), where I also earned a teaching certificate. I furthered my studies with two Master's degrees in [Computer Engineering](https://web.archive.org/web/20111115230620/http://www.uoc.edu/estudis/titulacions/enginyeria_informatica/pla_estudis/index.html) from [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html).
 
-His [research-oriented Master's thesis](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), currently published at [RECERCAT](https://www.recercat.cat/handle/2072/251627), equipped him with strong competencies in scientific research. To continue broadening his expertise, he is currently pursuing a university degree in Psychology.
-
-### Interests
-In his free time, Angel is passionate about hardware and software security and actively contributes to open-source projects.
-
-> *Any opinions expressed here are solely my own and do not represent the views or opinions of my employer.*
+My [research-oriented Master's thesis](https://www.uoc.edu/portal/_resources/CA/documents/qualitat/qualitat-titulacions/informatica-multimedia-telecomunicacions/20091221_Memoria_MPL_VERIFICADA_n.pdf), published at [RECERCAT](https://www.recercat.cat/handle/2072/251627), equipped me with strong competencies in scientific research. Driven by a continuous desire to broaden my expertise and better understand human-tech interaction, I am currently pursuing a university degree in Psychology.
 
 ---
 
 # Workshops
 
-In my role as a Solutions Architect, I have the privilege of designing tailored workshops to meet the specific technical and strategic needs of our clients. 
+In my role as a Senior Solutions Architect, I design tailored, hands-on workshops to meet the specific technical and strategic needs of enterprise clients. 
 
-Crafted to stay at the forefront of industry trends, these sessions deliver practical skills and valuable insights to empower clients in an ever-evolving technological landscape. Topics cover advanced and innovative areas within the expansive OpenShift ecosystem, including:
+Crafted to stay ahead of industry trends, these sessions deliver actionable skills and strategic insights to empower teams in an ever-evolving technological landscape. My core areas of expertise within the enterprise open-source ecosystem include:
 
-* Modern application development practices.
-* Robust DevSecOps methodologies.
-* Security enhancements through Single Sign-On (SSO) solutions.
+* **Modern Application Development:** Accelerating delivery and cloud-native practices.
+* **Robust DevSecOps Methodologies:** Securing the software supply chain from code to production.
+* **Advanced Security & Identity:** Enhancing environments through robust Single Sign-On (SSO) solutions.
 
-For more details, please visit the [Workshops](/workshops) section.
+For a comprehensive list of available sessions, architectures, and full programs, please visit the dedicated [Workshops](/workshops) section.
 
 ---
 
-# Publications
+# Speaking Engagements
 
-* [Avaluació de la xarxa social de microblogging descentralitzada Garlanet (2015) (CAT)](https://openaccess.uoc.edu/handle/10609/42822)
+A selection of my public speaking appearances, technical keynotes, and hands-on workshops at major industry events:
 
-# Events
+* **2026** | **Innovate together Barcelona** – [Event Details](https://reg.experiences.redhat.com/flow/redhat/3435200/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000472798)
+* **2026** | **Tech Day Madrid** – [Event Details](https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage)
+* **2025** | **Congreso Nacional de Innovación y Servicios Públicos (CNIS)** – *Zero Trust in OpenShift: Security Pillars in Container and Hybrid Cloud Environments* – [Session Details](https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/) <!-- https://www.youtube.com/watch?v=Q5MS7OuYUFo -->
+* **2025** | **Red Hat Webinar** – *Native Infused AI with Quarkus & GraalVM* – [Watch / Details](https://www.redhat.com/es/events/webinar/native-ai-infusion-with-quarkus-and-graalvm)
+* **2025** | **Red Hat Summit: Connect Madrid** – [Event Archive](https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025)
+* **2025** | **Immersion Days** – *Event-Driven Architecture* – [Event Archive](https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
+* **2025** | **Red Hat Tech Talks Always On** – *Generative AI* – [Event Archive](https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd) <!--https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322458abcd-->
+* **2024** | **Immersion Days** – *Platform Engineering and Trusted Software Supply Chain* – [Event Archive](https://web.archive.org/web/20241212233941/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
+* **2024** | **Immersion Days** – *End-to-end application development - Cloud Native Development* – [Event Archive](https://web.archive.org/web/20240530104751/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
+* **2024** | **Red Hat & Intel: Red Hat Open Tour A Coruña** – *Red Hat OpenShift AI* – [Event Archive](https://web.archive.org/web/20240530104318/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
+* **2024** | **Red Hat & Intel: Red Hat Open Tour Barcelona** – *Red Hat OpenShift AI* – [Event Archive](https://web.archive.org/web/20240228155049/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
+* **2023** | **Red Hat** – *Microsoft Azure Red Hat OpenShift Hands-on* – [Event Archive](https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
+* **2023** | **Red Hat** – *Red Hat OpenShift Service on AWS Hands-on* – [Event Archive](https://web.archive.org/web/20231115112618/https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
+* **2023** | **Red Hat & Intel: Red Hat Summit Connect Madrid** – *Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat* – [Event Archive](https://web.archive.org/web/20231127230643/https://www.redhat.com/en/summit/connect/emea/madrid-2023)
+* **2023** | **Red Hat & Intel** – *Modern Application Development Roadshow Madrid* – [Event Archive](https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd)
+* **2023** | **Red Hat & Intel** – *Modern Application Development Roadshow Barcelona* – [Event Archive](https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
+* **2023** | **Red Hat & Intel TechTalks: Open Tour Barcelona** – *Application Modernization* – [Event Archive](https://web.archive.org/web/20230612162837/https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG)
+* **2022** | **Red Hat & Intel TechTalks: Demo Day** – *IoT Edge Computing and Data Ingest use cases applicable to different verticals* – [Event Archive](https://web.archive.org/web/20230716101236/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001)
+* **2022** | **Red Hat & Intel TechTalks** – *Una plataforma de posibilidades ilimitadas: Edge Computing and Data Ingest* – [Event Archive](https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
+* **2022** | **Red Hat & Intel: Red Hat Summit Connect Madrid** – *DevSecOps with Red Hat Advanced Cluster Security* – [Event Archive](https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
+* **2022** | **Red Hat Day: Iberdrola Edition** – *JBoss EAP and Quarkus* – [Event Archive](https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
-* [Innovate together Barcelona 2026](https://reg.experiences.redhat.com/flow/redhat/3435200/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000472798)
-* [Tech Day Madrid 2026](https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage)
-* [Congreso Nacional de Innovación y Servicios Públicos (CNIS) - National Congress on Innovation and Public Services - Zero Trust in OpenShift: Security Pillars in Container and Hybrid Cloud Environments](https://www.cnis.es/sessions/demo-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/)
-<!-- https://www.youtube.com/watch?v=Q5MS7OuYUFo -->
-* [Native Infused AI with Quarkus & GraalVM](https://www.redhat.com/es/events/webinar/native-ai-infusion-with-quarkus-and-graalvm)
-* [Red Hat Summit: Connect 2025](https://web.archive.org/web/20251107114403/https://www.redhat.com/en/summit/connect/emea/madrid-2025)
-* [Immersion Days: Event-Driven Architecture](https://web.archive.org/web/20251107113123/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1313395abcd)
-* [Red Hat Tech Talks Always On: Generative AI](https://web.archive.org/web/20250228215104/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322534abcd)
-<!--https://events.redhat.com/profile/form/index.cfm?PKformID=0x1322458abcd-->
-* [Immersion Days: Platform Engineering and Trusted Software Supply Chain](https://web.archive.org/web/20241212233941/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1131869abcd)
-* [Immersion Days: End-to-end application development - Cloud Native Development](https://web.archive.org/web/20240530104751/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1074964abcd)
-* [Red Hat & intel: Red Hat Open Tour 2024 A Coruña - Red Hat OpenShift AI](https://web.archive.org/web/20240530104318/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012549abcd)
-* [Red Hat & intel: Red Hat Open Tour 2024 Barcelona - Red Hat OpenShift AI](https://web.archive.org/web/20240228155049/https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd)
-* [Red Hat: Microsoft Azure Red Hat OpenShift Hands-on](https://web.archive.org/web/20231115112449/https://events.redhat.com/profile/form/index.cfm?PKformID=0x961021abcd)
-* [Red Hat: Red Hat OpenShift Service on AWS Hands-on](https://web.archive.org/web/20231115112618/https://events.redhat.com/profile/form/index.cfm?PKformID=0x960793abcd)
-* [Red Hat & intel: Red Hat Summit Connect Madrid  2023 - Accelerating the deployment of Artificial Intelligence solutions with Intel and Red Hat](https://web.archive.org/web/20231127230643/https://www.redhat.com/en/summit/connect/emea/madrid-2023)
-* [Red Hat & intel: Modern Application Development Roadshow Madrid 2023](https://web.archive.org/web/20230716101450/https://events.redhat.com/profile/form/index.cfm?PKformID=0x840979abcd)
-* [Red Hat & intel: Modern Application Development Roadshow Barcelona 2023](https://web.archive.org/web/20230716101418/https://events.redhat.com/profile/form/index.cfm?PKformID=0x8427460001)
-* [Red Hat & intel TechTalks: Open Tour Barcelona 2023 - Application Modernization](https://web.archive.org/web/20230612162837/https://events.redhat.com/profile/form/index.cfm?PKformID=0x813201abcd&sc_cid=7013a000003DQb2AAG)
-* [Red Hat & intel TechTalks: Demo Day 2022 - IoT Edge Computing and Data Ingest use cases applicable to different verticals](https://web.archive.org/web/20230716101236/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5643010001)
-* [Red Hat & intel TechTalks: Una plataforma de posibilidades ilimitadas 2022 - Edge Computing and Data Ingest](https://web.archive.org/web/20230716101150/https://events.redhat.com/profile/form/index.cfm?PKformID=0x5741620001)
-* [Red Hat & intel: Red Hat Summit Connect Madrid 2022 - DevSecOps with Red Hat Advanced Cluster Security](https://web.archive.org/web/20220930061613/https://www.redhat.com/es/events/summit-connect-madrid-2022?sc_cid=7013a00000317uGAAQ)
-* [Red Hat Day: Iberdrola Edition 2022 - JBoss EAP and Quarkus](https://web.archive.org/web/20230716101542/https://events.redhat.com/profile/form/index.cfm?PKformID=0x695116abcd)
 
 <!-- backup event links
 
@@ -115,13 +107,17 @@ https://www.unir.net/profesores/angel-olle-blazquez/
 
 -->
 
-# Vulnerability Reports
+---
 
-List of vulnerability reports discovered to date.
+# Vulnerability Research & Disclosures
 
-* [CVE-2026-4981](https://access.redhat.com/security/cve/cve-2026-4981)
-* [CVE-2023-0481](https://access.redhat.com/security/cve/cve-2023-0481)
-* [CVE-2023-3384](https://access.redhat.com/security/cve/CVE-2023-3384)
+Beyond architectural design, I actively engage in security research and responsible vulnerability disclosure. While much of my security assessment work is conducted privately under enterprise NDAs or within internal infrastructures, I maintain a commitment to strengthening the open-source ecosystem. 
+
+Below are some of the officially credited public CVEs I have discovered and reported:
+
+* **CVE-2026-4981** | **Red Hat Advanced Cluster Security (ACS)** – Open Redirect & Content Spoofing in OAuth endpoint. – [View CVE](https://access.redhat.com/security/cve/cve-2026-4981)
+* **CVE-2023-3384** | **Red Hat Quay Registry** – Stored Cross-Site Scripting (XSS) via container image labels. – [View CVE](https://access.redhat.com/security/cve/CVE-2023-3384)
+* **CVE-2023-0481** | **Quarkus (RESTEasy Reactive)** – Insecure temporary file permissions vulnerability. – [View CVE](https://nvd.nist.gov/vuln/detail/CVE-2023-0481)
 
 <!--
 
@@ -142,10 +138,19 @@ https://web.archive.org/web/20260223160928/https://www.cnis.es/cnis2026/CNIS%202
 
 -->
 
-# Certifications
+---
 
-## Red Hat
+# Certifications & Credentials
 
+I hold extensive industry credentials from major technology vendors, with a strong focus on enterprise cloud architectures, AI, and infrastructure security.
+
+### Red Hat Certifications
+* **[Red Hat Certified Architect (RHCA) in Enterprise Applications – Level III](https://www.redhat.com/en/services/certification/rhca)** *(Highest tier of accreditation)*
+* **[Technology Thought Leadership Accelerator (TTLA) Graduate (2026)](https://www.credly.com/badges/49c5d31b-d6ac-49d5-a612-f231286c1177/public_url)** *(Strategic technology leadership credential)*
+* **Ecosystem Specialties:** [OpenShift AI](https://www.redhat.com/en/services/training/ex267-red-hat-certified-specialist-openshift-ai) | [Containers & Kubernetes](https://www.redhat.com/en/services/training/ex180-red-hat-certified-specialist-containers-kubernetes-exam) | [Event-Driven App Development](https://www.redhat.com/en/services/training/red-hat-certified-specialist-event-driven-application-development-exam) | [Cloud-native Developer](https://www.redhat.com/en/services/training/red-hat-certified-cloud-native-developer-exam) | [Ansible Automation](https://www.redhat.com/en/services/certification/rhcs-ansible-automation) | [OpenShift Administration](https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-in-openshift-administration-exam) | [Enterprise Microservices Developer](https://www.redhat.com/en/services/training/ex183-red-hat-certified-enterprise-application-developer-exam).
+* *Additional credentials:* Systems Administrator (RHCSA), JBoss Application Server Administration, Data Grid & Containerized App Development.
+
+<!-- 
 * [Red Hat Certified Architect in Enterprise Applications Level III](https://www.redhat.com/en/services/certification/rhca)
 * [Red Hat Certified Specialist in OpenShift AI](https://www.redhat.com/en/services/training/ex267-red-hat-certified-specialist-openshift-ai)
 * [Red Hat Certified Specialist in Containers](https://www.redhat.com/en/services/training/ex188-red-hat-certified-specialist-containers-exam)
@@ -160,77 +165,41 @@ https://web.archive.org/web/20260223160928/https://www.cnis.es/cnis2026/CNIS%202
 * [Red Hat Certified Specialist in OpenShift Administration](https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-in-openshift-administration-exam)
 * [Red Hat Certificate of Expertise in Containerized Application Development](https://www.redhat.com/en/services/certification/retired-rhcs-containerized-application-development)
 * [Red Hat Certificate of Expertise in Fast-Cache Application Development](https://www.redhat.com/en/services/training/ex453-retired-red-hat-certified-specialist-in-fast-cache-application-development-exam)
+-->
 
-## Microsoft
+### Linux & Security Credentials
+* **Linux Professional Institute (LPI):** [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) | [LPIC-2](https://www.lpi.org/our-certifications/lpic-2-overview) | **[LPIC-3 Security Specialist](https://www.lpi.org/our-certifications/lpic-3-303-overview)**
+* **CompTIA:** [CompTIA Linux+](https://www.comptia.org/en/certificaciones/linux)
 
-* [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-* [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
+### Cloud & Architecture Multi-Vendor
+* **Microsoft Azure:** [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/exams/az-900/) | [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900)
+* **Oracle:** [IT Architecture Release 3 Certified Specialist](https://www.oracle.com/es/partnernetwork/expertise/license-hardware/it-architecture/) | Java SE 6 Professional | WebLogic Server (11g/12c) Administrator | Solaris 10 OS.
+* **IT Service Management:** ITIL v3 Foundation (AXELOS/EXIN).
 
+<details>
+<summary><b>🔍 View Full Oracle Product & Support Specialties (30+ credentials)</b></summary>
 
-## Linux Professional Institute
-
-* [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview)
-* [LPIC-2](https://www.lpi.org/our-certifications/lpic-2-overview)
-* [LPIC-3 (Security)](https://www.lpi.org/our-certifications/lpic-3-303-overview)
-
-## CompTIA
-
-* [CompTIA Linux+](https://www.comptia.org/en/certificaciones/linux)
-
-## AXELOS/EXIN
-
-* ITIL v3 Foundation Certificate in IT Service Management
-
-## Oracle
-
-* [Oracle IT Architecture Release 3 Certified Architecture Specialist](https://www.oracle.com/es/partnernetwork/expertise/license-hardware/it-architecture/)
-* Oracle Certified Professional, Java SE 6 Programmer
-* Oracle Certified Associate, Oracle WebLogic Server 12c Administrator
-* Oracle Certified Associate, Oracle WebLogic Server 11g System Administrator
-* Oracle Certified Associate, Oracle Solaris 10 Operating System
-* Oracle Exalogic Elastic Cloud 2014 Presales Specialist
-* Cloud Builder 2012 Sales Specialist
-* Cloud Builder 2012 PreSales Specialist
-* Oracle Cloud Application Foundation Sales Specialist
-* Oracle Cloud Application Foundation Presales Specialist
-* Oracle WebLogic Server 12c Sales Specialist
-* Oracle WebLogic Server 12c PreSales Specialist
-* Oracle Exadata Database Machine 2014 Support Specialist
-* Oracle Taleo Enterprise Cloud Service 2013 Support Specialist
-* Oracle iStore Support Specialist
-* Oracle Solaris 10 Support Specialist
-* Network Session Delivery and Control Infrastructure Support Specialist
-* Oracle Policy Automation Support Specialist
+* Oracle Exalogic Elastic Cloud (Presales/Support Specialist)
+* Cloud Builder 2012 (Sales/PreSales Specialist)
+* Oracle Cloud Application Foundation (Sales/Presales Specialist)
+* Oracle Exadata Database Machine Support Specialist
+* Oracle Taleo Enterprise Cloud Service Support Specialist
+* Oracle iStore, Solaris 10, and Policy Automation Support Specialist
+* Network Session Delivery and Control Infrastructure Specialist
 * Oracle Enterprise Taxation Management 2 Support Consultant
-* Oracle Exalogic Elastic Cloud 2014 Support Specialist
-* Oracle Virtual Networking Support Specialist
-* Instantis EnterpriseTrack 8 Support Specialist
-* General Product Support Specialist
+* Oracle Virtual Networking & Instantis EnterpriseTrack Specialist
 * Oracle Argus Safety 7 Enterprise Edition Support Specialist
 * Enterprise Communications Support Specialist
-* Oracle WebLogic Server 12c Sales Specialist
-* Oracle WebLogic Server 12c PreSales Specialist
-* Oracle Exalogic Elastic Cloud 2014 Presales Specialist
-* Oracle Cloud Application Foundation Sales Specialist
-* Cloud Application Foundation Presales Specialist
-* Cloud Builder 2012 Sales Specialist
-* Cloud Builder 2012 PreSales Specialist
+</details>
 
-# Course Certificates
+---
 
-## Coursera
+### Selected Course Certificates
 
-* [Machine Learning Data Lifecycle in Production \| DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/NS73LTCJTNCP)
-* [Exploiting and Securing Vulnerabilities in Java Applications \| UC Davis](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
-* Introduction to Data Science \| University of Washington
-* Interprofessional Healthcare Informatics \| University of Minnesota
-* Web Application Architectures \| University of New Mexico
+Continuous learning via specialized academic platforms:
 
-## Udacity
-
-* [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
-* [cs101: Building a Search Engine](https://www.cs.virginia.edu/~evans/courses/cs101/)
-
-## LinkedIn Learning
-
-* [Advanced C Programming: Optimize Performance and Efficiency](https://www.linkedin.com/learning/advanced-c-programming-optimize-performance-and-efficiency)
+* **DeepLearning.AI:** [Machine Learning Data Lifecycle in Production](https://www.coursera.org/account/accomplishments/verify/NS73LTCJTNCP)
+* **UC Davis:** [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/account/accomplishments/certificate/EKEHSAWLLHH7)
+* **Udacity:** [Design of Computer Programs (Peter Norvig)](https://www.udacity.com/course/design-of-computer-programs--cs212) | [Building a Search Engine (cs101)](https://www.cs.virginia.edu/~evans/courses/cs101/)
+* **LinkedIn Learning:** [Advanced C Programming: Optimize Performance & Efficiency](https://www.linkedin.com/learning/advanced-c-programming-optimize-performance-and-efficiency)
+* *University-backed coursework:* Data Science (University of Washington) | Healthcare Informatics (University of Minnesota) | Web Application Architectures (University of New Mexico).
