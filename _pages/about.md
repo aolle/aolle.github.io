@@ -117,7 +117,7 @@ Below are some of the officially credited public CVEs I have discovered and repo
 
 * **CVE-2026-4981** | **Red Hat Advanced Cluster Security (ACS)** – Open Redirect & Content Spoofing in OAuth endpoint. – [View CVE](https://access.redhat.com/security/cve/cve-2026-4981)
 * **CVE-2023-3384** | **Red Hat Quay Registry** – Stored Cross-Site Scripting (XSS) via container image labels. – [View CVE](https://access.redhat.com/security/cve/CVE-2023-3384)
-* **CVE-2023-0481** | **Quarkus (RESTEasy Reactive)** – Insecure temporary file permissions vulnerability. – [View CVE](https://nvd.nist.gov/vuln/detail/CVE-2023-0481)
+* **CVE-2023-0481** | **Red Hat build of Quarkus (RESTEasy Reactive)** – Insecure temporary file permissions vulnerability. – [View CVE](https://access.redhat.com/security/cve/CVE-2023-0481)
 
 <!--
 
@@ -168,12 +168,12 @@ I hold extensive industry credentials from major technology vendors, with a stro
 -->
 
 ### Linux & Security Credentials
-* **Linux Professional Institute (LPI):** [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) | [LPIC-2](https://www.lpi.org/our-certifications/lpic-2-overview) | **[LPIC-3 Security Specialist](https://www.lpi.org/our-certifications/lpic-3-303-overview)**
-* **CompTIA:** [CompTIA Linux+](https://www.comptia.org/en/certificaciones/linux)
+* **Linux Professional Institute (LPI):** [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) | [LPIC-2](https://www.lpi.org/our-certifications/lpic-2-overview) | [LPIC-3 Security Specialist](https://www.lpi.org/our-certifications/lpic-3-303-overview)
+* **CompTIA:** [CompTIA Linux+](https://www.comptia.org/en-us/certifications/linux/)
 
 ### Cloud & Architecture Multi-Vendor
 * **Microsoft Azure:** [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/exams/az-900/) | [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900)
-* **Oracle:** [IT Architecture Release 3 Certified Specialist](https://www.oracle.com/es/partnernetwork/expertise/license-hardware/it-architecture/) | Java SE 6 Professional | WebLogic Server (11g/12c) Administrator | Solaris 10 OS.
+* **Oracle:** [IT Architecture Release 3 Certified Specialist](https://web.archive.org/web/20170201073009/http://www.oracle.com/partners/en/products/middleware/it-architecture-exam-1Z0-574/index.html) | Java SE 6 Professional | WebLogic Server (11g/12c) Administrator | Solaris 10 OS.
 * **IT Service Management:** ITIL v3 Foundation (AXELOS/EXIN).
 
 <details>
