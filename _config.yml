@@ -23,31 +23,16 @@ search: true
 
 repository: aolle/aolle.github.io
 
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -58,7 +43,6 @@ plugins:
 
 author:
   name   : "Àngel Ollé Blázquez"
-#  avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
     - label: "LinkedIn"
@@ -74,9 +58,7 @@ author:
       icon: "fab fa-fw fa-redhat"
       url: "https://rhtapps.redhat.com/verify?certId=170-210-991"
 
-
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -84,13 +66,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      show_date: false
       comments: false
       share: true
       related: false
-#      classes: wide
 
-  # _pages
   - scope:
       path: "_pages"
       type: pages
