@@ -176,8 +176,7 @@ I hold extensive industry credentials from major technology vendors, with a stro
 * **Oracle:** [IT Architecture Release 3 Certified Specialist](https://web.archive.org/web/20170201073009/http://www.oracle.com/partners/en/products/middleware/it-architecture-exam-1Z0-574/index.html) | Java SE 6 Professional | WebLogic Server (11g/12c) Administrator | Solaris 10 OS.
 * **IT Service Management:** ITIL v3 Foundation (AXELOS/EXIN).
 
-<details>
-<summary><b>🔍 View Full Oracle Product & Support Specialties (30+ credentials)</b></summary>
+### Oracle Product & Support Specialties
 
 * Oracle Exalogic Elastic Cloud (Presales/Support Specialist)
 * Cloud Builder 2012 (Sales/PreSales Specialist)
@@ -190,7 +189,6 @@ I hold extensive industry credentials from major technology vendors, with a stro
 * Oracle Virtual Networking & Instantis EnterpriseTrack Specialist
 * Oracle Argus Safety 7 Enterprise Edition Support Specialist
 * Enterprise Communications Support Specialist
-</details>
 
 ---
 
