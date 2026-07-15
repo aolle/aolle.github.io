@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const posts = await getCollection('blog');
+
+function getDateFallback(post: any) {
+  if (post.data.date) return post.data.date;
+  const match = post.id.match(/^(\d{4}-\d{2}-\d{2})/);
+  return match ? match[1] : null;
+}
+
+const sortedPosts = posts.sort((a, b) => {
+  const dateA = new Date(getDateFallback(a) || 0);
+  const dateB = new Date(getDateFallback(b) || 0);
+  return dateB.getTime() - dateA.getTime();
+});
+---
+
+<Layout title="Olleb // Log">
+  <main class="max-w-4xl mx-auto">
+
+    <section>
+      <h2 class="text-2xl font-bold text-slate-900 mb-8 border-b border-slate-100 pb-4">Recent Posts</h2>
+      
+      <div class="grid gap-8 md:grid-cols-2">
+        {sortedPosts.map((post) => {
+          const rawDate = getDateFallback(post);
+          const formattedDate = rawDate 
+            ? new Date(rawDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+            : 'Recent';
+
+          return (
+            <a 
+              href={`/posts/${post.id}`} 
+              class="blog-card group flex flex-col justify-between p-6 bg-white rounded-2xl border border-slate-200 hover:border-blue-500/50 hover:shadow-md transition-all duration-300"
+            >
+              <div>
+              <!--   <span class="text-xs font-mono text-blue-600 font-semibold">{formattedDate}</span> -->
+                <h3 class="text-xl font-bold text-slate-900 mt-2 mb-3 group-hover:text-blue-600 transition-colors">
+                  {post.data.title}
+                </h3>
+                <p class="text-slate-600 text-sm line-clamp-3 leading-relaxed">
+                  {post.data.description || "Technical analysis, writeup and detailed documentation."}
+                </p>
+              </div>
+              <div class="mt-6 text-sm font-semibold text-blue-600 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
+                Read post &rarr;
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  </main>
+</Layout>
+
+<style is:global>
+  .blog-card,
+  .blog-card *,
+  .blog-card:hover,
+  .blog-card *:hover {
+    text-decoration: none !important;
+    border-bottom-width: 0px !important;
+  }
+</style>

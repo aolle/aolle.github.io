@@ -1,5 +1,7 @@
 ---
 title: "Authentication Cookie Spoofing in OWASP WebGoat"
+description: "An architectural deep dive into session token predictability. Reverse-engineer a vulnerable cookie generation mechanism to forge valid administrative credentials and execute an authentication bypass."
+date: 2023-08-09
 ---
 
 In the realm of cybersecurity and web application security, projects like OWASP WebGoat play a pivotal role in enhancing our understanding of vulnerabilities and secure coding practices. As a core contributor to the OWASP WebGoat project, I have taken on the responsibility of porting, refactoring, and reviving various legacy training scenarios, breathing new life into lessons from earlier iterations of the platform. In this pursuit, my recent focus has been on revamping the **Authentication Cookie Spoofing** scenario, a critical module in the web security education arsenal. By re-engineering and modernizing this challenge, my goal is to provide learners with an enriched, contemporary hands-on experience that accurately reflects the ever-evolving threat landscape.
@@ -31,7 +33,7 @@ The technical objective of this challenge is to reverse-engineer the application
 
 The lesson displays a standard login interface requesting a username and password. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/wg-spoof-auth-cookie/login-form.png" alt="spoofing authentication cookie web form" />
+<img src="/assets/images/wg-spoof-auth-cookie/login-form.png" alt="spoofing authentication cookie web form" />
 
 The authentication lifecycle behaves as follows:
 
@@ -43,7 +45,7 @@ Our ultimate objective is to log in as the user **"Tom"** without knowing his pa
 
 To analyze the token generation behavior, we can log in using one of the low-privilege test credentials provided in the lesson hints and inspect the issued cookie:
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/wg-spoof-auth-cookie/login-ok.png" alt="spoofing authentication cookie successful login" />
+<img src="/assets/images/wg-spoof-auth-cookie/login-ok.png" alt="spoofing authentication cookie successful login" />
 
 The intercepted cookie string is clearly Base64 encoded. If we strip the encoding layers via the terminal, we can see that the resulting string reveals a secondary encoding layer-specifically, a Hex-encoded string:
 
@@ -85,9 +87,9 @@ NDE0MTQxNDE0MTQxNDE0MTQxNDE2ZDZmNzQ=
 
 By injecting `NDE0MTQxNDE0MTQxNDE0MTQxNDE2ZDZmNzQ=` as the value of the `spoof_auth` cookie into our browser's developer tools and refreshing the page, the backend processes the forged token, completely bypassing credential verification and granting us full access to Tom's account.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/wg-spoof-auth-cookie/cookies.png" />
+<img src="/assets/images/wg-spoof-auth-cookie/cookies.png" />
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/wg-spoof-auth-cookie/spoof-ok.png" />
+<img src="/assets/images/wg-spoof-auth-cookie/spoof-ok.png" />
 
 ## Implementation Insights: Remediation Strategies for Secure Session Management
 
