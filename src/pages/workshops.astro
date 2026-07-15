@@ -1,0 +1,35 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Workshops | Àngel">
+  <main class="max-w-3xl mx-auto space-y-10">
+    
+    <header class="mb-10 pb-8 border-b border-slate-100">
+      <h1 class="text-4xl font-extrabold text-slate-900 tracking-tight mb-4 leading-tight">
+        Workshops on Red Hat Technologies
+      </h1>
+      <p class="text-slate-500 leading-relaxed">
+        A curated collection of hands-on technical workshops covering the Red Hat enterprise ecosystem across different software releases.
+      </p>
+    </header>
+
+    <div class="markdown-body">
+      <ul>
+        <li>
+          <a href="/quay-workshop">Red Hat Quay Workshop</a> <em>(v3.15)</em>
+        </li>
+        <li>
+          <a href="/rhsso-workshop">Red Hat Single Sign-On Workshop</a> <em>(v7.6)</em>
+        </li>
+        <li>
+          <a href="/cloud-native-development-workshop">Red Hat Cloud-native Development Workshop</a> <em>(v4.11-3.4-1.9-1.7)</em>
+        </li>
+        <li>
+          <a href="/rhbk-workshop">Red Hat Build of Keycloak Workshop</a> <em>(v22.0)</em>
+        </li>
+      </ul>
+    </div>
+
+  </main>
+</Layout>
