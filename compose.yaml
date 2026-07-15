@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    ports:
+      - "4321:4321"
+    volumes:
+      - .:/app:Z
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development

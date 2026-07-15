@@ -1,0 +1,54 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
+import AuthorCard from '../../components/AuthorCard.astro';
+
+export async function getStaticPaths() {
+  const blogEntries = await getCollection('blog');
+  return blogEntries.map(entry => ({
+    params: { slug: entry.id }, 
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+function getDateFallback(post: any) {
+  if (post.data.date) return post.data.date;
+  const match = post.id.match(/^(\d{4}-\d{2}-\d{2})/);
+  return match ? match[1] : null;
+}
+
+const rawDate = getDateFallback(entry);
+const formattedDate = rawDate 
+  ? new Date(rawDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+  : 'Recent';
+---
+
+<Layout title={entry.data.title}>
+  <main class="max-w-3xl mx-auto">
+    <!-- Enlace para volver atrás -->
+    <a href="/" class="text-blue-600 hover:underline mb-8 inline-block text-sm font-medium">&larr; Back to home</a>
+    
+    <article class="space-y-8">
+      <header class="mb-10 pb-8 border-b border-slate-100">
+        <h1 class="text-4xl font-extrabold text-slate-900 tracking-tight mb-4 leading-tight">
+          {entry.data.title}
+        </h1>
+        <p class="text-slate-400 font-mono text-sm">{formattedDate}</p>
+      </header>
+      
+      <div class="markdown-body">
+        <Content />
+      </div>
+
+      <ShareButtons title={entry.data.title} />
+
+ <!--     <div class="pt-8">
+        <AuthorCard />
+      </div> -->
+    </article>
+  </main>
+</Layout>

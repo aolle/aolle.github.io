@@ -1,18 +1,11 @@
-FROM docker.io/jekyll/jekyll
+FROM node:22-alpine
 
-RUN apk add --no-cache --virtual .build-deps \
-        libxml2-dev \
-        shadow \
-        autoconf \
-        g++ \
-        make
+WORKDIR /app
 
-WORKDIR /srv/jekyll
+COPY package*.json ./
 
-ADD . /srv/jekyll/
+RUN npm install
 
-RUN bundle install
+EXPOSE 4321
 
-EXPOSE 8080
-
-CMD bundler exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace
+CMD ["node", "./node_modules/.bin/astro", "dev", "--host", "0.0.0.0", "--port", "4321", "--force"]

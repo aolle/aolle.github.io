@@ -1,0 +1,48 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const encodedURL = encodeURIComponent(canonicalURL.toString());
+const encodedTitle = encodeURIComponent(title);
+---
+
+<div class="border-t border-slate-100 pt-8 mt-12">
+  <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+    <span class="text-xs font-mono uppercase tracking-wider text-slate-400">Share on</span>
+    
+    <div class="flex flex-wrap gap-2 text-xs font-mono">
+      <!-- Twitter / X -->
+      <a 
+        href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedURL}`}
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="px-3 py-1.5 border border-slate-200 rounded-lg hover:border-slate-800 text-slate-600 hover:text-slate-900 transition-colors"
+      >
+        Twitter
+      </a>
+      
+      <!-- LinkedIn -->
+      <a 
+        href={`https://www.linkedin.com/shareArticle?mini=true&url=${encodedURL}`}
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="px-3 py-1.5 border border-slate-200 rounded-lg hover:border-slate-800 text-slate-600 hover:text-slate-900 transition-colors"
+      >
+        LinkedIn
+      </a>
+
+      <!-- Reddit -->
+      <a 
+        href={`https://www.reddit.com/submit?url=${encodedURL}&title=${encodedTitle}`}
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="px-3 py-1.5 border border-slate-200 rounded-lg hover:border-slate-800 text-slate-600 hover:text-slate-900 transition-colors"
+      >
+        Reddit
+      </a>
+    </div>
+  </div>
+</div>
