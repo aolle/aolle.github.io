@@ -28,11 +28,10 @@ const formattedDate = rawDate
 ---
 
 <Layout title={entry.data.title}>
-  <main class="max-w-3xl mx-auto">
-    <!-- Enlace para volver atrás -->
+  <main class="max-w-3xl mx-auto relative">
     <a href="/" class="text-blue-600 hover:underline mb-8 inline-block text-sm font-medium">&larr; Back to home</a>
     
-    <article class="space-y-8">
+    <article>
       <header class="mb-10 pb-8 border-b border-slate-100">
         <h1 class="text-4xl font-extrabold text-slate-900 tracking-tight mb-4 leading-tight">
           {entry.data.title}
@@ -43,12 +42,44 @@ const formattedDate = rawDate
       <div class="markdown-body">
         <Content />
       </div>
-
-      <ShareButtons title={entry.data.title} />
-
- <!--     <div class="pt-8">
-        <AuthorCard />
-      </div> -->
     </article>
+
+    <div class="mt-12 pt-8 border-t border-slate-100 space-y-10">
+      <ShareButtons title={entry.data.title} />
+      <AuthorCard />
+    </div>
+
+    <button
+      id="back-to-top"
+      aria-label="Back to top"
+      class="fixed bottom-8 right-8 bg-slate-900 hover:bg-slate-800 text-white p-3 rounded-full shadow-lg transition-all duration-300 translate-y-10 opacity-0 pointer-events-none z-50 focus:outline-none focus:ring-2 focus:ring-blue-500"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-5 h-5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+      </svg>
+    </button>
   </main>
 </Layout>
+
+<script>
+  const backToTopButton = document.getElementById('back-to-top');
+
+  if (backToTopButton) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 400) {
+        backToTopButton.classList.remove('opacity-0', 'translate-y-10', 'pointer-events-none');
+        backToTopButton.classList.add('opacity-100', 'translate-y-0');
+      } else {
+        backToTopButton.classList.remove('opacity-100', 'translate-y-0');
+        backToTopButton.classList.add('opacity-0', 'translate-y-10', 'pointer-events-none');
+      }
+    });
+
+    backToTopButton.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+  }
+</script>
