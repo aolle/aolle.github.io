@@ -2,7 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
-import AuthorCard from '../../components/AuthorCard.astro';
+import avatarImg from '../../assets/avatar.jpg';
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const blogEntries = await getCollection('blog');
@@ -28,25 +29,38 @@ const formattedDate = rawDate
 ---
 
 <Layout title={entry.data.title}>
-  <main class="max-w-3xl mx-auto relative">
+  <main class="max-w-3xl mx-auto relative px-4 sm:px-6">
     <a href="/" class="text-blue-600 hover:underline mb-8 inline-block text-sm font-medium">&larr; Back to home</a>
     
     <article>
-      <header class="mb-10 pb-8 border-b border-slate-100">
-        <h1 class="text-4xl font-extrabold text-slate-900 tracking-tight mb-4 leading-tight">
+      <header class="mb-10 pb-10 border-b border-slate-100">
+        <h1 class="text-4xl sm:text-5xl font-extrabold text-slate-900 tracking-tight mb-8 leading-tight">
           {entry.data.title}
         </h1>
-        <p class="text-slate-400 font-mono text-sm">{formattedDate}</p>
+
+        <div class="flex items-center gap-4 text-slate-700">
+          <Image 
+            src={avatarImg} 
+            alt="Àngel Ollé Blázquez" 
+            class="w-12 h-12 rounded-full border border-slate-200"
+            width={48}
+            height={48}
+          />
+          <div class="flex flex-col">
+            <span class="font-bold text-slate-900">Àngel Ollé Blázquez</span>
+          </div>
+        </div>
+
+        <p class="text-slate-400 font-mono text-xs mt-6">{formattedDate}</p>
       </header>
       
-      <div class="markdown-body">
+      <div class="markdown-body prose-slate">
         <Content />
       </div>
     </article>
 
-    <div class="mt-12 pt-8 border-t border-slate-100 space-y-10">
+    <div class="mt-12 pt-8 border-t border-slate-100 flex flex-col sm:flex-row justify-between items-center gap-6">
       <ShareButtons title={entry.data.title} />
-      <AuthorCard />
     </div>
 
     <button
