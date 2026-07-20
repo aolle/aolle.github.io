@@ -40,16 +40,20 @@ const formattedDate = rawDate
 
         <div class="not-prose flex items-center gap-x-4 text-slate-700 w-full">
           <div class="flex-shrink-0">
-            <Image 
-              src={avatarImg} 
-              alt="Àngel Ollé Blázquez" 
-              class="w-12 h-12 rounded-full border border-slate-200 object-cover m-0 p-0"
-              width={48}
-              height={48}
-            />
+            <a href="/about" class="block cursor-pointer">
+              <Image 
+                src={avatarImg} 
+                alt="Àngel Ollé Blázquez" 
+                class="w-12 h-12 rounded-full border border-slate-200 object-cover m-0 p-0"
+                width={48}
+                height={48}
+              />
+            </a>
           </div>
           <div class="flex flex-col">
-            <span class="font-bold text-slate-900 m-0 p-0">Àngel Ollé Blázquez</span>
+            <a href="/about" class="font-bold text-slate-900 m-0 p-0 no-underline cursor-pointer hover:text-slate-900">
+              Àngel Ollé Blázquez
+            </a>
           </div>
         </div>
 
