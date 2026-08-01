@@ -6,8 +6,6 @@ date: 2023-02-01
 
 In this post, I'll delve into the art of reverse engineering hardware signals, using a practical scenario as a case study. While I cannot divulge specific details about the original engagement, the methodology outlined here provides a solid blueprint for anyone interested in signal analysis and hardware reverse engineering. Let's dive in.
 
-# Introduction and Background
-
 Our target scenario involves an alphanumeric control panel where input entered via a keypad is displayed on an LCD screen. While a secure, production-grade system typically avoids routing sensitive, unencrypted data to a peripheral display, vulnerabilities often lie in these assumptions—making it a perfect target for analysis.
 
 The architecture consists of an AVR MCU interfacing with a standard **1602 LCD Module** (a 16x2 character display where each character is rendered via a 5x8 pixel matrix). You can reference the module's user guide [here](https://www.handsontec.com/dataspecs/module/I2C_1602_LCD.pdf).
