@@ -4,7 +4,7 @@ description: "A practical walkthrough of building an isolated LLVM fuzzing harne
 date: 2026-07-19
 ---
 
-# Building a Standalone LLVM Fuzzing Harness for Apache mod_http2: Understanding Memory Ownership Through Source-Level Analysis
+## Building a Standalone LLVM Fuzzing Harness for Apache mod_http2: Understanding Memory Ownership Through Source-Level Analysis
 
 Memory lifetime bugs are among the most challenging classes of defects to investigate in large C codebases. While the underlying concepts such as ownership, aliasing, and object lifetime are well understood, following those properties through a mature software project often requires navigating thousands of lines of infrastructure code before reaching the behavior of interest.
 
@@ -84,11 +84,10 @@ In practice, each fuzzing iteration follows the same sequence of steps. It creat
 
 ```c
 extern "C"
-int LLVMFuzzerTestOneInput(const uint8_t *Data,
-                           size_t Size) 
-{
-    if (Size == 0 || Size > 65536)
+int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size) {
+    if (Size == 0 || Size > 65536) {
         return 0;
+    }
 
     apr_pool_t *server_pool;
     apr_pool_t *request_pool;
@@ -99,15 +98,11 @@ int LLVMFuzzerTestOneInput(const uint8_t *Data,
 
     /* Construct the minimal h2_c1_io object */
 
-    h2_c1_io io =
-        create_minimal_io(server_pool,
-                          request_pool);
+    h2_c1_io io = create_minimal_io(server_pool, request_pool);
     
     /* Execute the target function */
 
-    h2_c1_io_add_data(&io,
-                      (const char *)Data,
-                      Size);
+    h2_c1_io_add_data(&io, (const char *) Data, Size);
     
     /* Inspect the resulting bucket brigade */
 
@@ -138,16 +133,11 @@ Some of these dependencies are ordinary functions, while others are global varia
 Rather than compiling the entire Apache HTTP Server, the harness provides minimal implementations of only the symbols required by the linker:
 
 ```c
-const char *ap_get_server_built(void)
-{
+const char *ap_get_server_built(void) {
     return "Harness";
 }
 
-int h2_session_dispatch_event(void *session,
-                              int ev,
-                              int err,
-                              const char *msg)
-{
+int h2_session_dispatch_event(void *session, int ev, int err, const char *msg) {
     return 0;
 }
 ```
@@ -176,14 +166,13 @@ conn_rec *mock_c = apr_pcalloc(server_pool, sizeof(conn_rec));
 mock_c->pool = server_pool;
 mock_c->bucket_alloc = server_alloc;
 
-void **mock_session_raw =
-    (void **)apr_pcalloc(server_pool, 1024);
+void **mock_session_raw = (void **) apr_pcalloc(server_pool, 1024);
 
 mock_session_raw[0] = mock_c;
 mock_session_raw[1] = mock_c;
 mock_session_raw[2] = mock_c;
 
-io.session = (struct h2_session *)mock_session_raw;
+io.session = (struct h2_session *) mock_session_raw;
 ```
 
 This technique deliberately avoids reconstructing the complete structure. Instead, it satisfies only the fields that are actually accessed along the execution path being studied.
@@ -205,12 +194,10 @@ One interesting observation when comparing different Apache HTTP Server releases
 In Apache 2.4.58 the function contains two distinct execution paths. Depending on the value of `buffer_output`, response data is either accumulated in an intermediate scratch buffer or forwarded to `apr_brigade_write()`.
 
 ```c
-if (io->buffer_output) 
-{
+if (io->buffer_output) {
     /* Append to the scratch buffer */
 }
-else 
-{
+else {
     status = apr_brigade_write(io->output, NULL, NULL, data, length);
     io->buffered_len += length;
 }
@@ -225,10 +212,13 @@ However, that assumption cannot be validated by inspecting `h2_c1_io_add_data()`
 Following the execution through the APR implementation reveals that `apr_brigade_write()` eventually creates a heap bucket through `apr_bucket_heap_create()`, which in turn delegates to `apr_bucket_heap_make()`.
 
 ```text
-h2_c1_io_add_data() -> apr_brigade_write() -> apr_bucket_heap_create() -> apr_bucket_heap_make() 
-                                                                              +--> apr_bucket_alloc()
-                                                                              |
-                                                                              +--> memcpy()
+h2_c1_io_add_data() 
+-> apr_brigade_write() 
+-> apr_bucket_heap_create() 
+-> apr_bucket_heap_make() 
+        +--> apr_bucket_alloc()
+        |
+        +--> memcpy()
 ```
 
 When no custom deallocation function is provided, `apr_bucket_heap_make()` allocates its own storage and copies the supplied data:
@@ -255,8 +245,7 @@ To make allocator reuse more visible, the harness performs several large allocat
 ```c
 size_t spray_size = (Size > 8192) ? Size : 8192;
 
-for (int i = 0; i < 3; i++) 
-{
+for (int i = 0; i < 3; i++) {
     char *dirty_memory = apr_palloc(server_pool, spray_size);
     memset(dirty_memory, 'X', spray_size);
 }
@@ -271,13 +260,10 @@ Whether previously released blocks are actually recycled depends on APR's alloca
 After the target function completes, the harness walks the resulting bucket brigade and inspects the data exposed by each bucket:
 
 ```c
-apr_status_t rv =
-    apr_bucket_read(b, &str, &len, APR_BLOCK_READ);
+apr_status_t rv = apr_bucket_read(b, &str, &len, APR_BLOCK_READ);
 
-if (rv == APR_SUCCESS && len > 0 && str != NULL) 
-{
-    if (str[0] == 'X') 
-    {
+if (rv == APR_SUCCESS && len > 0 && str != NULL) {
+    if (str[0] == 'X') {
         __builtin_trap();
     }
 }
