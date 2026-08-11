@@ -4,8 +4,6 @@ description: "A practical walkthrough of building an isolated LLVM fuzzing harne
 date: 2026-07-19
 ---
 
-## Building a Standalone LLVM Fuzzing Harness for Apache mod_http2: Understanding Memory Ownership Through Source-Level Analysis
-
 Memory lifetime bugs are among the most challenging classes of defects to investigate in large C codebases. While the underlying concepts such as ownership, aliasing, and object lifetime are well understood, following those properties through a mature software project often requires navigating thousands of lines of infrastructure code before reaching the behavior of interest.
 
 Traditional fuzzing approaches exercise the application as a whole, but this comes at a cost. Network stacks, logging, configuration parsing, thread scheduling, and initialization logic all become part of every execution, making it harder to isolate the subsystem being studied and to reason about unexpected behavior.
